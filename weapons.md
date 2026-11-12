@@ -2,7 +2,7 @@
 
 # Weapons
 
-Game version **3.8**. Item IDs and model IDs come from separate fields. UI icon names can be searched in FModel.
+Game version **3.8**. Item IDs and model IDs come from separate fields.
 
 ## Broadblades
 
