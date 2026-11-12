@@ -2,7 +2,7 @@
 
 # Wuthering Waves character codenames
 
-The 60 Convene portraits shown in the FModel screenshot, using the original Luckdraw filename tokens. Role IDs may be shared across Rover variants.
+Role IDs may be shared across Rover variants.
 
 | Portrait | In-game name | Code name | Role ID | Evidence |
 | --- | --- | --- | --- | --- |
