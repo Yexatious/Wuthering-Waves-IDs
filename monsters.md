@@ -2,7 +2,7 @@
 
 # Monsters
 
-Game version **3.8**. IDs identify game records. Multiple IDs can share a name, icon, or model. UI texture names are searchable in FModel.
+Game version **3.8**. IDs identify game records. Multiple IDs can share a name, icon, or model.
 
 | Portrait | In-game name | Monster ID | Head icon |
 | --- | --- | --- | --- |
