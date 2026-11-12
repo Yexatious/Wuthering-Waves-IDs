@@ -73,4 +73,4 @@ Role IDs may be shared across Rover variants.
 - [Game role table](https://github.com/Arikatsu/WutheringWaves_Data/blob/a96f6c6e87717d528a340de37374d9fc5a5ba563/BinData/role/roleinfo.json)
 - [English name index](https://static.nanoka.cc/ww/3.8/character.json)
 
-Portraits are from the local FModel exports. Wordmark from [SteamGridDB](https://www.steamgriddb.com/game/5448373/logos). Artwork © Kuro Games.
+Artwork © Kuro Games.
