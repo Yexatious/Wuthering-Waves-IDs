@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Aalto",
+    "thumbnail": "thumbnails-characters/qiushui.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "qiushui",
+    "role_ids": [
+      "1403"
+    ]
+  },
+  {
+    "name": "Aemeath",
+    "thumbnail": "thumbnails-characters/AiMiSi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "AiMiSi",
+    "role_ids": [
+      "1210"
+    ]
+  },
+  {
+    "name": "Augusta",
+    "thumbnail": "thumbnails-characters/Aogusita.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "Aogusita",
+    "role_ids": [
+      "1306"
+    ]
+  },
+  {
+    "name": "Baizhi",
+    "thumbnail": "thumbnails-characters/bailian.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "bailian",
+    "role_ids": [
+      "1103"
+    ]
+  },
+  {
+    "name": "Brant",
+    "thumbnail": "thumbnails-characters/bulante.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "bulante",
+    "role_ids": [
+      "1206"
+    ]
+  },
+  {
+    "name": "Buling",
+    "thumbnail": "thumbnails-characters/BuLing.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "BuLing",
+    "role_ids": [
+      "1307"
+    ]
+  },
+  {
+    "name": "Calcharo",
+    "thumbnail": "thumbnails-characters/kakaluo.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "kakaluo",
+    "role_ids": [
+      "1301"
+    ]
+  },
+  {
+    "name": "Camellya",
+    "thumbnail": "thumbnails-characters/chun.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "chun",
+    "role_ids": [
+      "1603"
+    ]
+  },
+  {
+    "name": "Cantarella",
+    "thumbnail": "thumbnails-characters/kanteleila.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "kanteleila",
+    "role_ids": [
+      "1607"
+    ]
+  },
+  {
+    "name": "Carlotta",
+    "thumbnail": "thumbnails-characters/kelaita.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "kelaita",
+    "role_ids": [
+      "1107"
+    ]
+  },
+  {
+    "name": "Cartethyia",
+    "thumbnail": "thumbnails-characters/katixiya.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "katixiya",
+    "role_ids": [
+      "1409"
+    ]
+  },
+  {
+    "name": "Changli",
+    "thumbnail": "thumbnails-characters/changli.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "changli",
+    "role_ids": [
+      "1205"
+    ]
+  },
+  {
+    "name": "Chisa",
+    "thumbnail": "thumbnails-characters/QianXiao.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "QianXiao",
+    "role_ids": [
+      "1508"
+    ]
+  },
+  {
+    "name": "Chixia",
+    "thumbnail": "thumbnails-characters/maxiaofang.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "maxiaofang",
+    "role_ids": [
+      "1202"
+    ]
+  },
+  {
+    "name": "Ciaccona",
+    "thumbnail": "thumbnails-characters/xiakong.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "xiakong",
+    "role_ids": [
+      "1407"
+    ]
+  },
+  {
+    "name": "Danjin",
+    "thumbnail": "thumbnails-characters/danjin.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "danjin",
+    "role_ids": [
+      "1602"
+    ]
+  },
+  {
+    "name": "Denia",
+    "thumbnail": "thumbnails-characters/DaNiYa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "DaNiYa",
+    "role_ids": [
+      "1211"
+    ]
+  },
+  {
+    "name": "Encore",
+    "thumbnail": "thumbnails-characters/anke.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "anke",
+    "role_ids": [
+      "1203"
+    ]
+  },
+  {
+    "name": "Galbrena",
+    "thumbnail": "thumbnails-characters/JiaBeiLiNa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "JiaBeiLiNa",
+    "role_ids": [
+      "1208"
+    ]
+  },
+  {
+    "name": "Hiyuki",
+    "thumbnail": "thumbnails-characters/FeiXue.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "FeiXue",
+    "role_ids": [
+      "1108"
+    ]
+  },
+  {
+    "name": "Hsin",
+    "thumbnail": "thumbnails-characters/Xin.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "Xin",
+    "role_ids": [
+      "1311"
+    ]
+  },
+  {
+    "name": "Iuno",
+    "thumbnail": "thumbnails-characters/Younuo.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "Younuo",
+    "role_ids": [
+      "1410"
+    ]
+  },
+  {
+    "name": "Jianxin",
+    "thumbnail": "thumbnails-characters/jianxin.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "jianxin",
+    "role_ids": [
+      "1405"
+    ]
+  },
+  {
+    "name": "Jingran",
+    "thumbnail": "thumbnails-characters/JingRan.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "JingRan",
+    "role_ids": [
+      "1212"
+    ]
+  },
+  {
+    "name": "Jinhsi",
+    "thumbnail": "thumbnails-characters/jinxi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "jinxi",
+    "role_ids": [
+      "1304"
+    ]
+  },
+  {
+    "name": "Jiyan",
+    "thumbnail": "thumbnails-characters/jiyan.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "jiyan",
+    "role_ids": [
+      "1404"
+    ]
+  },
+  {
+    "name": "Lily",
+    "thumbnail": "thumbnails-characters/LiLi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LiLi",
+    "role_ids": [
+      "1512"
+    ]
+  },
+  {
+    "name": "Lingyang",
+    "thumbnail": "thumbnails-characters/lingyang.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "lingyang",
+    "role_ids": [
+      "1104"
+    ]
+  },
+  {
+    "name": "Lucilla",
+    "thumbnail": "thumbnails-characters/LuoSeLa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LuoSeLa",
+    "role_ids": [
+      "1109"
+    ]
+  },
+  {
+    "name": "Lucy",
+    "thumbnail": "thumbnails-characters/LuXi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LuXi",
+    "role_ids": [
+      "1511"
+    ]
+  },
+  {
+    "name": "Lumi",
+    "thumbnail": "thumbnails-characters/dengdeng.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "dengdeng",
+    "role_ids": [
+      "1504"
+    ]
+  },
+  {
+    "name": "Lupa",
+    "thumbnail": "thumbnails-characters/Lupa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "Lupa",
+    "role_ids": [
+      "1207"
+    ]
+  },
+  {
+    "name": "Luuk Herssen",
+    "thumbnail": "thumbnails-characters/LuHeSi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LuHeSi",
+    "role_ids": [
+      "1510"
+    ]
+  },
+  {
+    "name": "Lynae",
+    "thumbnail": "thumbnails-characters/LinNai.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LinNai",
+    "role_ids": [
+      "1509"
+    ]
+  },
+  {
+    "name": "Mornye",
+    "thumbnail": "thumbnails-characters/MoNing.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "MoNing",
+    "role_ids": [
+      "1209"
+    ]
+  },
+  {
+    "name": "Mortefi",
+    "thumbnail": "thumbnails-characters/baer.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "baer",
+    "role_ids": [
+      "1204"
+    ]
+  },
+  {
+    "name": "Phoebe",
+    "thumbnail": "thumbnails-characters/feibi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "feibi",
+    "role_ids": [
+      "1506"
+    ]
+  },
+  {
+    "name": "Phrolova",
+    "thumbnail": "thumbnails-characters/fuluoluo.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "fuluoluo",
+    "role_ids": [
+      "1608"
+    ]
+  },
+  {
+    "name": "Qingxiao",
+    "thumbnail": "thumbnails-characters/QingXiao.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "QingXiao",
+    "role_ids": [
+      "1413"
+    ]
+  },
+  {
+    "name": "Qiuyuan",
+    "thumbnail": "thumbnails-characters/QiuYuan.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "QiuYuan",
+    "role_ids": [
+      "1411"
+    ]
+  },
+  {
+    "name": "Rebecca",
+    "thumbnail": "thumbnails-characters/LiBeiKa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "LiBeiKa",
+    "role_ids": [
+      "1308"
+    ]
+  },
+  {
+    "name": "Roccia",
+    "thumbnail": "thumbnails-characters/luokeke.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "luokeke",
+    "role_ids": [
+      "1606"
+    ]
+  },
+  {
+    "name": "Rover (female)",
+    "thumbnail": "thumbnails-characters/PiaoBoZhe0.png",
+    "verified_against": "3.8",
+    "verification": "tentative",
+    "codename": "PiaoBoZhe0",
+    "role_ids": []
+  },
+  {
+    "name": "Rover (male)",
+    "thumbnail": "thumbnails-characters/PiaoBoZhe1.png",
+    "verified_against": "3.8",
+    "verification": "tentative",
+    "codename": "PiaoBoZhe1",
+    "role_ids": []
+  },
+  {
+    "name": "Rover (shared placeholder)",
+    "thumbnail": "thumbnails-characters/nanzhu.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "nanzhu",
+    "role_ids": [
+      "1309",
+      "1310",
+      "1406",
+      "1408",
+      "1501",
+      "1502",
+      "1604",
+      "1605"
+    ]
+  },
+  {
+    "name": "Sanhua",
+    "thumbnail": "thumbnails-characters/sanhua.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "sanhua",
+    "role_ids": [
+      "1102"
+    ]
+  },
+  {
+    "name": "Shorekeeper",
+    "thumbnail": "thumbnails-characters/shouanren.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "shouanren",
+    "role_ids": [
+      "1505"
+    ]
+  },
+  {
+    "name": "Sigrika",
+    "thumbnail": "thumbnails-characters/XiGeLiKa.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "XiGeLiKa",
+    "role_ids": [
+      "1412"
+    ]
+  },
+  {
+    "name": "Suisui",
+    "thumbnail": "thumbnails-characters/SuiSui.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "SuiSui",
+    "role_ids": [
+      "1110"
+    ]
+  },
+  {
+    "name": "Suoming",
+    "thumbnail": "thumbnails-characters/SuoMing.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "SuoMing",
+    "role_ids": [
+      "1312"
+    ]
+  },
+  {
+    "name": "Taoqi",
+    "thumbnail": "thumbnails-characters/taohua.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "taohua",
+    "role_ids": [
+      "1601"
+    ]
+  },
+  {
+    "name": "Verina",
+    "thumbnail": "thumbnails-characters/jueyuan.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "jueyuan",
+    "role_ids": [
+      "1503"
+    ]
+  },
+  {
+    "name": "Xiangli Yao",
+    "thumbnail": "thumbnails-characters/xiangliyao.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "xiangliyao",
+    "role_ids": [
+      "1305"
+    ]
+  },
+  {
+    "name": "Yangyang",
+    "thumbnail": "thumbnails-characters/yanyan.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "yanyan",
+    "role_ids": [
+      "1402"
+    ]
+  },
+  {
+    "name": "Yangyang: Xuanling",
+    "thumbnail": "thumbnails-characters/XuanLing.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "XuanLing",
+    "role_ids": [
+      "1610"
+    ]
+  },
+  {
+    "name": "Yinlin",
+    "thumbnail": "thumbnails-characters/yinlin.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "yinlin",
+    "role_ids": [
+      "1302"
+    ]
+  },
+  {
+    "name": "Youhu",
+    "thumbnail": "thumbnails-characters/youhu.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "youhu",
+    "role_ids": [
+      "1106"
+    ]
+  },
+  {
+    "name": "Yuanwu",
+    "thumbnail": "thumbnails-characters/yuanwu.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "yuanwu",
+    "role_ids": [
+      "1303"
+    ]
+  },
+  {
+    "name": "Zani",
+    "thumbnail": "thumbnails-characters/zanni.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "zanni",
+    "role_ids": [
+      "1507"
+    ]
+  },
+  {
+    "name": "Zhezhi",
+    "thumbnail": "thumbnails-characters/zhezhi.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "codename": "zhezhi",
+    "role_ids": [
+      "1105"
+    ]
+  }
+]

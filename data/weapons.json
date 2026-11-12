@@ -1,0 +1,1342 @@
+[
+  {
+    "name": "Training Broadblade",
+    "thumbnail": "thumbnails-weapons/21010011.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010011",
+    "model_id": "21010011",
+    "icon": "T_IconWeapon21010011_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Tyro Broadblade",
+    "thumbnail": "thumbnails-weapons/21010012.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010012",
+    "model_id": "21010012",
+    "icon": "T_IconWeapon21010012_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Broadblade of Night",
+    "thumbnail": "thumbnails-weapons/21010013.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010013",
+    "model_id": "21010013",
+    "icon": "T_IconWeapon21010013_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Lustrous Razor",
+    "thumbnail": "thumbnails-weapons/21010015.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010015",
+    "model_id": "21010015",
+    "icon": "T_IconWeapon21010015_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Verdant Summit",
+    "thumbnail": "thumbnails-weapons/21010016.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010016",
+    "model_id": "21010016",
+    "icon": "T_IconWeapon21010016_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Originite: Type I",
+    "thumbnail": "thumbnails-weapons/21010023.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010023",
+    "model_id": "21010023",
+    "icon": "T_IconWeapon21010023_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Discord",
+    "thumbnail": "thumbnails-weapons/21010024.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010024",
+    "model_id": "21010024",
+    "icon": "T_IconWeapon21010024_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Ages of Harvest",
+    "thumbnail": "thumbnails-weapons/21010026.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010026",
+    "model_id": "21010026",
+    "icon": "T_IconWeapon21010026_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Broadblade#41",
+    "thumbnail": "thumbnails-weapons/21010034.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010034",
+    "model_id": "21010034",
+    "icon": "T_IconWeapon21010034_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Wildfire Mark",
+    "thumbnail": "thumbnails-weapons/21010036.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010036",
+    "model_id": "21010036",
+    "icon": "T_IconWeapon21010036_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Broadblade of Voyager",
+    "thumbnail": "thumbnails-weapons/21010043.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010043",
+    "model_id": "21010043",
+    "icon": "T_IconWeapon21010043_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Dauntless Evernight",
+    "thumbnail": "thumbnails-weapons/21010044.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010044",
+    "model_id": "21010044",
+    "icon": "T_IconWeapon21010044_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Radiance Cleaver",
+    "thumbnail": "thumbnails-weapons/21010045.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010045",
+    "model_id": "21010045",
+    "icon": "T_IconWeapon_21010045_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Thunderflare Dominion",
+    "thumbnail": "thumbnails-weapons/21010046.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010046",
+    "model_id": "21010046",
+    "icon": "T_IconWeapon21010046_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Guardian Broadblade",
+    "thumbnail": "thumbnails-weapons/21010053.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010053",
+    "model_id": "21010053",
+    "icon": "T_IconWeapon21010053_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Kumokiri",
+    "thumbnail": "thumbnails-weapons/21010056.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010056",
+    "model_id": "21010056",
+    "icon": "T_IconWeapon21010056_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Beguiling Melody",
+    "thumbnail": "thumbnails-weapons/21010063.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010063",
+    "model_id": "21010063",
+    "icon": "T_IconWeapon21010063_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Helios Cleaver",
+    "thumbnail": "thumbnails-weapons/21010064.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010064",
+    "model_id": "21010064",
+    "icon": "T_IconWeapon21010064_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Starfield Calibrator",
+    "thumbnail": "thumbnails-weapons/21010066.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010066",
+    "model_id": "21010066",
+    "icon": "T_IconWeapon21010066_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Autumntrace",
+    "thumbnail": "thumbnails-weapons/21010074.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010074",
+    "model_id": "21010074",
+    "icon": "T_IconWeapon21010074_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Thousandfold Deliverance",
+    "thumbnail": "thumbnails-weapons/21010076.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010076",
+    "model_id": "21010076",
+    "icon": "T_IconWeapon21010076_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Waning Redshift",
+    "thumbnail": "thumbnails-weapons/21010084.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010084",
+    "model_id": "21010084",
+    "icon": "T_IconWeapon21010084_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Meditations on Mercy",
+    "thumbnail": "thumbnails-weapons/21010094.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010094",
+    "model_id": "21010094",
+    "icon": "T_IconWeapon21010094_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Aureate Zenith",
+    "thumbnail": "thumbnails-weapons/21010104.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21010104",
+    "model_id": "21010104",
+    "icon": "T_IconWeapon21010104_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Projection: Formless Broadblade",
+    "thumbnail": "thumbnails-weapons/80080002.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080002",
+    "model_id": null,
+    "icon": "T_IconWeapon21010027_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Projection - Peach Blossom",
+    "thumbnail": "thumbnails-weapons/80080007.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080007",
+    "model_id": null,
+    "icon": "T_IconWeapon21010017_UI",
+    "weapon_type": "Broadblades"
+  },
+  {
+    "name": "Training Sword",
+    "thumbnail": "thumbnails-weapons/21020011.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020011",
+    "model_id": "21020011",
+    "icon": "T_IconWeapon21020011_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Tyro Sword",
+    "thumbnail": "thumbnails-weapons/21020012.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020012",
+    "model_id": "21020012",
+    "icon": "T_IconWeapon21020012_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Sword of Night",
+    "thumbnail": "thumbnails-weapons/21020013.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020013",
+    "model_id": "21020013",
+    "icon": "T_IconWeapon21020013_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Emerald of Genesis",
+    "thumbnail": "thumbnails-weapons/21020015.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020015",
+    "model_id": "21020015",
+    "icon": "T_IconWeapon21020015_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Blazing Brilliance",
+    "thumbnail": "thumbnails-weapons/21020016.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020016",
+    "model_id": "21020016",
+    "icon": "T_IconWeapon21020016_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Somnoire Anchor",
+    "thumbnail": "thumbnails-weapons/21020017.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020017",
+    "model_id": "21020017",
+    "icon": "T_IconWeapon21020019_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Originite: Type II",
+    "thumbnail": "thumbnails-weapons/21020023.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020023",
+    "model_id": "21020023",
+    "icon": "T_IconWeapon21020023_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Overture",
+    "thumbnail": "thumbnails-weapons/21020024.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020024",
+    "model_id": "21020024",
+    "icon": "T_IconWeapon21020024_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Red Spring",
+    "thumbnail": "thumbnails-weapons/21020026.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020026",
+    "model_id": "21020026",
+    "icon": "T_IconWeapon21020017_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Sword#18",
+    "thumbnail": "thumbnails-weapons/21020034.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020034",
+    "model_id": "21020034",
+    "icon": "T_IconWeapon21020034_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Unflickering Valor",
+    "thumbnail": "thumbnails-weapons/21020036.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020036",
+    "model_id": "21020036",
+    "icon": "T_IconWeapon21020025_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Sword of Voyager",
+    "thumbnail": "thumbnails-weapons/21020043.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020043",
+    "model_id": "21020043",
+    "icon": "T_IconWeapon21020043_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Commando of Conviction",
+    "thumbnail": "thumbnails-weapons/21020044.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020044",
+    "model_id": "21020044",
+    "icon": "T_IconWeapon21020044_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Laser Shearer",
+    "thumbnail": "thumbnails-weapons/21020045.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020045",
+    "model_id": "21020045",
+    "icon": "T_IconWeapon_21020045_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Bloodpact's Pledge",
+    "thumbnail": "thumbnails-weapons/21020046.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020046",
+    "model_id": "21020046",
+    "icon": "T_IconWeapon21020026_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Guardian Sword",
+    "thumbnail": "thumbnails-weapons/21020053.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020053",
+    "model_id": "21020053",
+    "icon": "T_IconWeapon21020053_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Defier's Thorn",
+    "thumbnail": "thumbnails-weapons/21020056.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020056",
+    "model_id": "21020056",
+    "icon": "T_IconWeapon21020056_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Lunar Cutter",
+    "thumbnail": "thumbnails-weapons/21020064.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020064",
+    "model_id": "21020064",
+    "icon": "T_IconWeapon21020064_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Emerald Sentence",
+    "thumbnail": "thumbnails-weapons/21020066.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020066",
+    "model_id": "21020066",
+    "icon": "T_IconWeapon21020066_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Lumingloss",
+    "thumbnail": "thumbnails-weapons/21020074.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020074",
+    "model_id": "21020074",
+    "icon": "T_IconWeapon21020074_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Everbright Polestar",
+    "thumbnail": "thumbnails-weapons/21020076.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020076",
+    "model_id": "21020076",
+    "icon": "T_IconWeapon21020076_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Endless Collapse",
+    "thumbnail": "thumbnails-weapons/21020084.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020084",
+    "model_id": "21020084",
+    "icon": "T_IconWeapon21020084_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Frostburn",
+    "thumbnail": "thumbnails-weapons/21020086.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020086",
+    "model_id": "21020086",
+    "icon": "T_IconWeapon21020086_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Fables of Wisdom",
+    "thumbnail": "thumbnails-weapons/21020094.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020094",
+    "model_id": "21020094",
+    "icon": "T_IconWeapon21020094_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Azure Oath",
+    "thumbnail": "thumbnails-weapons/21020096.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020096",
+    "model_id": "21020096",
+    "icon": "T_IconWeapon21020096_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Feather Edge",
+    "thumbnail": "thumbnails-weapons/21020104.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020104",
+    "model_id": "21020104",
+    "icon": "T_IconWeapon21020104_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Glint of Clouds",
+    "thumbnail": "thumbnails-weapons/21020106.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020106",
+    "model_id": "21020106",
+    "icon": "T_IconWeapon21020106_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Unspoken Rue",
+    "thumbnail": "thumbnails-weapons/21020107.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21020107",
+    "model_id": "21020107",
+    "icon": "T_IconWeapon21020107_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Projection: Somnoire Anchor",
+    "thumbnail": "thumbnails-weapons/80080001.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080001",
+    "model_id": null,
+    "icon": "T_IconWeapon21020019_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Projection: Formless Sword",
+    "thumbnail": "thumbnails-weapons/80080003.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080003",
+    "model_id": null,
+    "icon": "T_IconWeapon21020018_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Projection: Blade of a Thousand Arts",
+    "thumbnail": "thumbnails-weapons/80080009.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080009",
+    "model_id": null,
+    "icon": "T_IconWeapon80080009_UI",
+    "weapon_type": "Swords"
+  },
+  {
+    "name": "Training Pistols",
+    "thumbnail": "thumbnails-weapons/21030011.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030011",
+    "model_id": "21030011",
+    "icon": "T_IconWeapon21030011_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Tyro Pistols",
+    "thumbnail": "thumbnails-weapons/21030012.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030012",
+    "model_id": "21030012",
+    "icon": "T_IconWeapon21030012_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Pistols of Night",
+    "thumbnail": "thumbnails-weapons/21030013.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030013",
+    "model_id": "21030013",
+    "icon": "T_IconWeapon21030013_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Static Mist",
+    "thumbnail": "thumbnails-weapons/21030015.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030015",
+    "model_id": "21030015",
+    "icon": "T_IconWeapon21030015_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "The Last Dance",
+    "thumbnail": "thumbnails-weapons/21030016.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030016",
+    "model_id": "21030016",
+    "icon": "T_IconWeapon21030017_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Originite: Type III",
+    "thumbnail": "thumbnails-weapons/21030023.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030023",
+    "model_id": "21030023",
+    "icon": "T_IconWeapon21030023_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Cadenza",
+    "thumbnail": "thumbnails-weapons/21030024.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030024",
+    "model_id": "21030024",
+    "icon": "T_IconWeapon21030024_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Woodland Aria",
+    "thumbnail": "thumbnails-weapons/21030026.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030026",
+    "model_id": "21030026",
+    "icon": "T_IconWeapon21030026_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Pistols#26",
+    "thumbnail": "thumbnails-weapons/21030034.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030034",
+    "model_id": "21030034",
+    "icon": "T_IconWeapon21030034_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Lux & Umbra",
+    "thumbnail": "thumbnails-weapons/21030036.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030036",
+    "model_id": "21030036",
+    "icon": "T_IconWeapon21030036_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Pistols of Voyager",
+    "thumbnail": "thumbnails-weapons/21030043.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030043",
+    "model_id": "21030043",
+    "icon": "T_IconWeapon21030043_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Undying Flame",
+    "thumbnail": "thumbnails-weapons/21030044.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030044",
+    "model_id": "21030044",
+    "icon": "T_IconWeapon21030044_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Phasic Homogenizer",
+    "thumbnail": "thumbnails-weapons/21030045.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030045",
+    "model_id": "21030045",
+    "icon": "T_IconWeapon_21030045_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Spectrum Blaster",
+    "thumbnail": "thumbnails-weapons/21030046.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030046",
+    "model_id": "21030046",
+    "icon": "T_IconWeapon21030046_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Guardian Pistols",
+    "thumbnail": "thumbnails-weapons/21030053.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030053",
+    "model_id": "21030053",
+    "icon": "T_IconWeapon21030053_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Spectral Trigger",
+    "thumbnail": "thumbnails-weapons/21030056.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030056",
+    "model_id": "21030056",
+    "icon": "T_IconWeapon21030056_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Novaburst",
+    "thumbnail": "thumbnails-weapons/21030064.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030064",
+    "model_id": "21030064",
+    "icon": "T_IconWeapon21030064_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Skull Thrasher",
+    "thumbnail": "thumbnails-weapons/21030066.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030066",
+    "model_id": "21030066",
+    "icon": "T_IconWeapon21030066_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Thunderbolt",
+    "thumbnail": "thumbnails-weapons/21030074.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030074",
+    "model_id": "21030074",
+    "icon": "T_IconWeapon21030074_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Lullaby",
+    "thumbnail": "thumbnails-weapons/21030076.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030076",
+    "model_id": "21030076",
+    "icon": "T_IconWeapon21030076_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Relativistic Jet",
+    "thumbnail": "thumbnails-weapons/21030084.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030084",
+    "model_id": "21030084",
+    "icon": "T_IconWeapon21030084_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Romance in Farewell",
+    "thumbnail": "thumbnails-weapons/21030094.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030094",
+    "model_id": "21030094",
+    "icon": "T_IconWeapon21030094_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Solar Flame",
+    "thumbnail": "thumbnails-weapons/21030104.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21030104",
+    "model_id": "21030104",
+    "icon": "T_IconWeapon21030104_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Projection: Formless Pistol",
+    "thumbnail": "thumbnails-weapons/80080004.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080004",
+    "model_id": null,
+    "icon": "T_IconWeapon21030016_UI",
+    "weapon_type": "Pistols"
+  },
+  {
+    "name": "Training Gauntlets",
+    "thumbnail": "thumbnails-weapons/21040011.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040011",
+    "model_id": "21140011",
+    "icon": "T_IconWeapon21040011_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Tyro Gauntlets",
+    "thumbnail": "thumbnails-weapons/21040012.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040012",
+    "model_id": "21140012",
+    "icon": "T_IconWeapon21040012_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Gauntlets of Night",
+    "thumbnail": "thumbnails-weapons/21040013.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040013",
+    "model_id": "21140013",
+    "icon": "T_IconWeapon21040013_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Abyss Surges",
+    "thumbnail": "thumbnails-weapons/21040015.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040015",
+    "model_id": "21140015",
+    "icon": "T_IconWeapon21040015_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Verity's Handle",
+    "thumbnail": "thumbnails-weapons/21040016.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040016",
+    "model_id": "21040016",
+    "icon": "T_IconWeapon21040016_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Originite: Type IV",
+    "thumbnail": "thumbnails-weapons/21040023.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040023",
+    "model_id": "21140023",
+    "icon": "T_IconWeapon21040023_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Marcato",
+    "thumbnail": "thumbnails-weapons/21040024.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040024",
+    "model_id": "21140024",
+    "icon": "T_IconWeapon21040024_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Tragicomedy",
+    "thumbnail": "thumbnails-weapons/21040026.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040026",
+    "model_id": "21040026",
+    "icon": "T_IconWeapon21040018_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Gauntlets#21D",
+    "thumbnail": "thumbnails-weapons/21040034.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040034",
+    "model_id": "21140034",
+    "icon": "T_IconWeapon21040034_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Blazing Justice",
+    "thumbnail": "thumbnails-weapons/21040036.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040036",
+    "model_id": "21040036",
+    "icon": "T_IconWeapon21040019_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Gauntlets of Voyager",
+    "thumbnail": "thumbnails-weapons/21040043.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040043",
+    "model_id": "21140043",
+    "icon": "T_IconWeapon21040043_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Amity Accord",
+    "thumbnail": "thumbnails-weapons/21040044.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040044",
+    "model_id": "21140044",
+    "icon": "T_IconWeapon21040044_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Pulsation Bracer",
+    "thumbnail": "thumbnails-weapons/21040045.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040045",
+    "model_id": "21040045",
+    "icon": "T_IconWeapon_21040045_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Moongazer's Sigil",
+    "thumbnail": "thumbnails-weapons/21040046.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040046",
+    "model_id": "21040046",
+    "icon": "T_IconWeapon21040046_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Guardian Gauntlets",
+    "thumbnail": "thumbnails-weapons/21040053.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040053",
+    "model_id": "21140053",
+    "icon": "T_IconWeapon21040053_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Daybreaker's Spine",
+    "thumbnail": "thumbnails-weapons/21040056.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040056",
+    "model_id": "21040056",
+    "icon": "T_IconWeapon_21040056_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Hollow Mirage",
+    "thumbnail": "thumbnails-weapons/21040064.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040064",
+    "model_id": "21140064",
+    "icon": "T_IconWeapon21040064_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Solsworn Ciphers",
+    "thumbnail": "thumbnails-weapons/21040066.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040066",
+    "model_id": "21040066",
+    "icon": "T_IconWeapon21040066_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Stonard",
+    "thumbnail": "thumbnails-weapons/21040074.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040074",
+    "model_id": "21140074",
+    "icon": "T_IconWeapon21040074_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Celestial Spiral",
+    "thumbnail": "thumbnails-weapons/21040084.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040084",
+    "model_id": "21140084",
+    "icon": "T_IconWeapon21040084_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Legend of Drunken Hero",
+    "thumbnail": "thumbnails-weapons/21040094.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040094",
+    "model_id": "21040094",
+    "icon": "T_IconWeapon21040094_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Aether Strike",
+    "thumbnail": "thumbnails-weapons/21040104.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21040104",
+    "model_id": "21040104",
+    "icon": "T_IconWeapon21040104_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Projection: Formless Gauntlets",
+    "thumbnail": "thumbnails-weapons/80080005.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080005",
+    "model_id": null,
+    "icon": "T_IconWeapon21040017_UI",
+    "weapon_type": "Gauntlets"
+  },
+  {
+    "name": "Training Rectifier",
+    "thumbnail": "thumbnails-weapons/21050011.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050011",
+    "model_id": "21050011",
+    "icon": "T_IconWeapon21050011_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Tyro Rectifier",
+    "thumbnail": "thumbnails-weapons/21050012.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050012",
+    "model_id": "21050012",
+    "icon": "T_IconWeapon21050012_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Rectifier of Night",
+    "thumbnail": "thumbnails-weapons/21050013.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050013",
+    "model_id": "21050013",
+    "icon": "T_IconWeapon21050013_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Cosmic Ripples",
+    "thumbnail": "thumbnails-weapons/21050015.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050015",
+    "model_id": "21050015",
+    "icon": "T_IconWeapon21050015_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Stringmaster",
+    "thumbnail": "thumbnails-weapons/21050016.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050016",
+    "model_id": "21050016",
+    "icon": "T_IconWeapon21050016_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Call of the Abyss",
+    "thumbnail": "thumbnails-weapons/21050017.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050017",
+    "model_id": "21050017",
+    "icon": "T_IconWeapon21050017_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Originite: Type V",
+    "thumbnail": "thumbnails-weapons/21050023.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050023",
+    "model_id": "21050023",
+    "icon": "T_IconWeapon21050023_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Variation",
+    "thumbnail": "thumbnails-weapons/21050024.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050024",
+    "model_id": "21050024",
+    "icon": "T_IconWeapon21050024_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Rime-Draped Sprouts",
+    "thumbnail": "thumbnails-weapons/21050026.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050026",
+    "model_id": "21050026",
+    "icon": "T_IconWeapon21050026_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Ocean's Gift",
+    "thumbnail": "thumbnails-weapons/21050027.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050027",
+    "model_id": "21050027",
+    "icon": "T_IconWeapon21050036_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Rectifier#25",
+    "thumbnail": "thumbnails-weapons/21050034.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050034",
+    "model_id": "21050034",
+    "icon": "T_IconWeapon21050034_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Stellar Symphony",
+    "thumbnail": "thumbnails-weapons/21050036.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050036",
+    "model_id": "21050036",
+    "icon": "T_IconWeapon21050027_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Rectifier of Voyager",
+    "thumbnail": "thumbnails-weapons/21050043.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050043",
+    "model_id": "21050043",
+    "icon": "T_IconWeapon21050043_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Jinzhou Keeper",
+    "thumbnail": "thumbnails-weapons/21050044.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050044",
+    "model_id": "21050044",
+    "icon": "T_IconWeapon21050044_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Boson Astrolabe",
+    "thumbnail": "thumbnails-weapons/21050045.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050045",
+    "model_id": "21050045",
+    "icon": "T_IconWeapon_21050045_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Luminous Hymn",
+    "thumbnail": "thumbnails-weapons/21050046.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050046",
+    "model_id": "21050046",
+    "icon": "T_IconWeapon21050029_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Guardian Rectifier",
+    "thumbnail": "thumbnails-weapons/21050053.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050053",
+    "model_id": "21050053",
+    "icon": "T_IconWeapon21050053_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Whispers of Sirens",
+    "thumbnail": "thumbnails-weapons/21050056.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050056",
+    "model_id": "21050056",
+    "icon": "T_IconWeapon21050030_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Comet Flare",
+    "thumbnail": "thumbnails-weapons/21050064.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050064",
+    "model_id": "21050064",
+    "icon": "T_IconWeapon21050064_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Lethean Elegy",
+    "thumbnail": "thumbnails-weapons/21050066.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050066",
+    "model_id": "21050066",
+    "icon": "T_IconWeapon21050066_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Augment",
+    "thumbnail": "thumbnails-weapons/21050074.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050074",
+    "model_id": "21050074",
+    "icon": "T_IconWeapon21050074_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Forged Dwarf Star",
+    "thumbnail": "thumbnails-weapons/21050076.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050076",
+    "model_id": "21050076",
+    "icon": "T_IconWeapon21050076_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Fusion Accretion",
+    "thumbnail": "thumbnails-weapons/21050084.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050084",
+    "model_id": "21050084",
+    "icon": "T_IconWeapon21050084_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Freeze Frame",
+    "thumbnail": "thumbnails-weapons/21050086.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050086",
+    "model_id": "21050086",
+    "icon": "T_IconWeapon21050086_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Waltz in Masquerade",
+    "thumbnail": "thumbnails-weapons/21050094.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050094",
+    "model_id": "21050094",
+    "icon": "T_IconWeapon21050094_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Firstlight's Herald",
+    "thumbnail": "thumbnails-weapons/21050096.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050096",
+    "model_id": "21050096",
+    "icon": "T_IconWeapon21050096_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Radiant Dawn",
+    "thumbnail": "thumbnails-weapons/21050104.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050104",
+    "model_id": "21050104",
+    "icon": "T_IconWeapon21050104_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Blooming Jadehaven",
+    "thumbnail": "thumbnails-weapons/21050116.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "21050116",
+    "model_id": "21050116",
+    "icon": "T_IconWeapon21050116_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Projection: Formless Rectifier",
+    "thumbnail": "thumbnails-weapons/80080006.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080006",
+    "model_id": null,
+    "icon": "T_IconWeapon21050028_UI",
+    "weapon_type": "Rectifiers"
+  },
+  {
+    "name": "Projection: Ocean's Gift",
+    "thumbnail": "thumbnails-weapons/80080008.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "item_id": "80080008",
+    "model_id": null,
+    "icon": "T_IconWeapon21050036_UI",
+    "weapon_type": "Rectifiers"
+  }
+]

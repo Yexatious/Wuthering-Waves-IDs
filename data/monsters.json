@@ -1,0 +1,2801 @@
+[
+  {
+    "name": "Vanguard Junrock",
+    "thumbnail": "thumbnails-monsters/310000010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000010",
+    "entity_id": "Monster001",
+    "head_icon": "T_IconMonsterHead_015_UI"
+  },
+  {
+    "name": "Fission Junrock",
+    "thumbnail": "thumbnails-monsters/310000020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000020",
+    "entity_id": "Monster002",
+    "head_icon": "T_IconMonsterHead_025_UI"
+  },
+  {
+    "name": "Electro Predator",
+    "thumbnail": "thumbnails-monsters/310000030.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000030",
+    "entity_id": "Monster003",
+    "head_icon": "T_IconMonsterHead_035_UI"
+  },
+  {
+    "name": "Glacio Predator",
+    "thumbnail": "thumbnails-monsters/310000040.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000040",
+    "entity_id": "Monster010",
+    "head_icon": "T_IconMonsterHead_105_UI"
+  },
+  {
+    "name": "Aero Predator",
+    "thumbnail": "thumbnails-monsters/310000050.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000050",
+    "entity_id": "Monster011",
+    "head_icon": "T_IconMonsterHead_235_UI"
+  },
+  {
+    "name": "Fusion Warrior",
+    "thumbnail": "thumbnails-monsters/310000060.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000060",
+    "entity_id": "Monster004",
+    "head_icon": "T_IconMonsterHead_045_UI"
+  },
+  {
+    "name": "Havoc Warrior",
+    "thumbnail": "thumbnails-monsters/310000070.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000070",
+    "entity_id": "Monster005",
+    "head_icon": "T_IconMonsterHead_055_UI"
+  },
+  {
+    "name": "Snip Snap",
+    "thumbnail": "thumbnails-monsters/310000080.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000080",
+    "entity_id": "Monster006",
+    "head_icon": "T_IconMonsterHead_065_UI"
+  },
+  {
+    "name": "Zig Zag",
+    "thumbnail": "thumbnails-monsters/310000090.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000090",
+    "entity_id": "Monster007",
+    "head_icon": "T_IconMonsterHead_075_UI"
+  },
+  {
+    "name": "Whiff Whaff",
+    "thumbnail": "thumbnails-monsters/310000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000100",
+    "entity_id": "Monster008",
+    "head_icon": "T_IconMonsterHead_085_UI"
+  },
+  {
+    "name": "Tick Tack",
+    "thumbnail": "thumbnails-monsters/310000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000110",
+    "entity_id": "Monster009",
+    "head_icon": "T_IconMonsterHead_095_UI"
+  },
+  {
+    "name": "Gulpuff",
+    "thumbnail": "thumbnails-monsters/310000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000120",
+    "entity_id": "Monster016",
+    "head_icon": "T_IconMonsterHead_115_UI"
+  },
+  {
+    "name": "Chirpuff",
+    "thumbnail": "thumbnails-monsters/310000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000130",
+    "entity_id": "Monster030",
+    "head_icon": "T_IconMonsterHead_971_UI"
+  },
+  {
+    "name": "Glacio Prism",
+    "thumbnail": "thumbnails-monsters/310000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000140",
+    "entity_id": "Monster034",
+    "head_icon": "T_IconMonsterHead_145_UI"
+  },
+  {
+    "name": "Fusion Prism",
+    "thumbnail": "thumbnails-monsters/310000150.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000150",
+    "entity_id": "Monster033",
+    "head_icon": "T_IconMonsterHead_155_UI"
+  },
+  {
+    "name": "Spectro Prism",
+    "thumbnail": "thumbnails-monsters/310000160.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000160",
+    "entity_id": "Monster035",
+    "head_icon": "T_IconMonsterHead_165_UI"
+  },
+  {
+    "name": "Havoc Prism",
+    "thumbnail": "thumbnails-monsters/310000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000170",
+    "entity_id": "Monster036",
+    "head_icon": "T_IconMonsterHead_175_UI"
+  },
+  {
+    "name": "Cruisewing",
+    "thumbnail": "thumbnails-monsters/310000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000180",
+    "entity_id": "Monster014",
+    "head_icon": "T_IconMonsterHead_255_UI"
+  },
+  {
+    "name": "Sabyr Boar",
+    "thumbnail": "thumbnails-monsters/310000190.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000190",
+    "entity_id": "Monster015",
+    "head_icon": "T_IconMonsterHead_265_UI"
+  },
+  {
+    "name": "Excarat",
+    "thumbnail": "thumbnails-monsters/310000200.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000200",
+    "entity_id": "Monster017",
+    "head_icon": "T_IconMonsterHead_275_UI"
+  },
+  {
+    "name": "Baby Viridblaze Saurian",
+    "thumbnail": "thumbnails-monsters/310000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000210",
+    "entity_id": "Monster018",
+    "head_icon": "T_IconMonsterHead_285_UI"
+  },
+  {
+    "name": "Baby Roseshroom",
+    "thumbnail": "thumbnails-monsters/310000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000220",
+    "entity_id": "Monster019",
+    "head_icon": "T_IconMonsterHead_305_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000230",
+    "entity_id": "Monster012",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000231",
+    "entity_id": "Monster020",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000232",
+    "entity_id": "Monster021",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000233",
+    "entity_id": "Monster022",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000234",
+    "entity_id": "Monster023",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000235",
+    "entity_id": "Monster024",
+    "head_icon": "T_IconMonsterHead_977_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000240",
+    "entity_id": "Monster013",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000241",
+    "entity_id": "Monster025",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000242",
+    "entity_id": "Monster026",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000243",
+    "entity_id": "Monster027",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000244",
+    "entity_id": "Monster028",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Exile",
+    "thumbnail": "thumbnails-monsters/310000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000245",
+    "entity_id": "Monster029",
+    "head_icon": "T_IconMonsterHead_976_UI"
+  },
+  {
+    "name": "Hooscamp Flinger",
+    "thumbnail": "thumbnails-monsters/310000250.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000250",
+    "entity_id": "Monster052",
+    "head_icon": "T_IconMonsterHead_988_UI"
+  },
+  {
+    "name": "Hooscamp",
+    "thumbnail": "thumbnails-monsters/310000250.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000251",
+    "entity_id": "Monster052",
+    "head_icon": "T_IconMonsterHead_988_UI"
+  },
+  {
+    "name": "Diamondclaw",
+    "thumbnail": "thumbnails-monsters/310000260.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000260",
+    "entity_id": "Monster057",
+    "head_icon": "T_IconMonsterHead_987_UI"
+  },
+  {
+    "name": "Hoartoise",
+    "thumbnail": "thumbnails-monsters/310000270.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000270",
+    "entity_id": "Monster058",
+    "head_icon": "T_IconMonsterHead_969_UI"
+  },
+  {
+    "name": "Fusion Dreadmane",
+    "thumbnail": "thumbnails-monsters/310000280.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000280",
+    "entity_id": "Monster053",
+    "head_icon": "T_IconMonsterHead_980_UI"
+  },
+  {
+    "name": "Fractsidus Thruster",
+    "thumbnail": "thumbnails-monsters/310000290.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000290",
+    "entity_id": "Monster072",
+    "head_icon": "T_IconMonsterHead_972_UI"
+  },
+  {
+    "name": "Hooscamp Clapperclaw",
+    "thumbnail": "thumbnails-monsters/310000300.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000300",
+    "entity_id": "Monster146",
+    "head_icon": "T_IconMonsterHead_1002_UI"
+  },
+  {
+    "name": "Fractsidus Cannoneer",
+    "thumbnail": "thumbnails-monsters/310000310.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000310",
+    "entity_id": "Monster086",
+    "head_icon": "T_IconMonsterHead_974_UI"
+  },
+  {
+    "name": "Fractsidus Gunmaster",
+    "thumbnail": "thumbnails-monsters/310000320.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000320",
+    "entity_id": "Monster087",
+    "head_icon": "T_IconMonsterHead_973_UI"
+  },
+  {
+    "name": "Traffic Illuminator",
+    "thumbnail": "thumbnails-monsters/310000330.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000330",
+    "entity_id": "Monster151",
+    "head_icon": "T_IconMonsterHead_1000_UI"
+  },
+  {
+    "name": "Clang Bang",
+    "thumbnail": "thumbnails-monsters/310000340.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000340",
+    "entity_id": "Monster119",
+    "head_icon": "T_IconMonsterHead_1001_UI"
+  },
+  {
+    "name": "Lava Larva",
+    "thumbnail": "thumbnails-monsters/310000350.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000350",
+    "entity_id": "Monster118",
+    "head_icon": "T_IconMonsterHead_326_UI"
+  },
+  {
+    "name": "Dwarf Cassowary",
+    "thumbnail": "thumbnails-monsters/310000360.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000360",
+    "entity_id": "Monster127",
+    "head_icon": "T_IconMonsterHead_330_UI"
+  },
+  {
+    "name": "Galescourge Stalker",
+    "thumbnail": "thumbnails-monsters/310000370.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000370",
+    "entity_id": "Monster099",
+    "head_icon": "T_IconMonsterHead_31037_UI"
+  },
+  {
+    "name": "Voltscourge Stalker",
+    "thumbnail": "thumbnails-monsters/310000380.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000380",
+    "entity_id": "Monster1",
+    "head_icon": "T_IconMonsterHead_31038_UI"
+  },
+  {
+    "name": "Frostscourge Stalker",
+    "thumbnail": "thumbnails-monsters/310000390.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000390",
+    "entity_id": "Monster064",
+    "head_icon": "T_IconMonsterHead_31039_UI"
+  },
+  {
+    "name": "Chop Chop: Headless",
+    "thumbnail": "thumbnails-monsters/310000400.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000400",
+    "entity_id": "Monster_branch2.0_015",
+    "head_icon": "T_IconMonsterHead_31040_UI"
+  },
+  {
+    "name": "Chop Chop: Leftless",
+    "thumbnail": "thumbnails-monsters/310000410.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000410",
+    "entity_id": "Monster_branch2.0_014",
+    "head_icon": "T_IconMonsterHead_31041_UI"
+  },
+  {
+    "name": "Chop Chop: Rightless",
+    "thumbnail": "thumbnails-monsters/310000420.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000420",
+    "entity_id": "Monster_branch2.0_013",
+    "head_icon": "T_IconMonsterHead_31042_UI"
+  },
+  {
+    "name": "Fae Ignis",
+    "thumbnail": "thumbnails-monsters/310000430.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000430",
+    "entity_id": "Monster186",
+    "head_icon": "T_IconMonsterHead_31043_UI"
+  },
+  {
+    "name": "Nimbus Wraith",
+    "thumbnail": "thumbnails-monsters/310000440.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000440",
+    "entity_id": "Monster181",
+    "head_icon": "T_IconMonsterHead_31044_UI"
+  },
+  {
+    "name": "Hocus Pocus",
+    "thumbnail": "thumbnails-monsters/310000450.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000450",
+    "entity_id": "Monster_branch2.0_022",
+    "head_icon": "T_IconMonsterHead_31045_UI"
+  },
+  {
+    "name": "Lottie Lost",
+    "thumbnail": "thumbnails-monsters/310000460.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000460",
+    "entity_id": "Monster_branch2.0_023",
+    "head_icon": "T_IconMonsterHead_31046_UI"
+  },
+  {
+    "name": "Diggy Duggy",
+    "thumbnail": "thumbnails-monsters/310000470.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000470",
+    "entity_id": "Monster_branch2.0_011",
+    "head_icon": "T_IconMonsterHead_31047_UI"
+  },
+  {
+    "name": "Chest Mimic",
+    "thumbnail": "thumbnails-monsters/310000480.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000480",
+    "entity_id": "branch2.0_Monster187",
+    "head_icon": "T_IconMonsterHead_31048_UI"
+  },
+  {
+    "name": "Golden Junrock",
+    "thumbnail": "thumbnails-monsters/310000490.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000490",
+    "entity_id": "Monster_branch2.1_05",
+    "head_icon": "T_IconMonsterHead_31049_UI"
+  },
+  {
+    "name": "Calcified Junrock",
+    "thumbnail": "thumbnails-monsters/310000500.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000500",
+    "entity_id": "Monster_branch2.1_06",
+    "head_icon": "T_IconMonsterHead_31050_UI"
+  },
+  {
+    "name": "Aero Prism",
+    "thumbnail": "thumbnails-monsters/310000510.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000510",
+    "entity_id": "Monster_branch2.1_07",
+    "head_icon": "T_IconMonsterHead_31051_UI"
+  },
+  {
+    "name": "La Guardia",
+    "thumbnail": "thumbnails-monsters/310000520.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000520",
+    "entity_id": "Monster_Branch2.2_002",
+    "head_icon": "T_IconMonsterHead_31052_UI"
+  },
+  {
+    "name": "Sagittario",
+    "thumbnail": "thumbnails-monsters/310000530.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000530",
+    "entity_id": "Monster_Branch2.2_001",
+    "head_icon": "T_IconMonsterHead_31053_UI"
+  },
+  {
+    "name": "Sacerdos",
+    "thumbnail": "thumbnails-monsters/310000540.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000540",
+    "entity_id": "Monster_Branch2.2_004",
+    "head_icon": "T_IconMonsterHead_31054_UI"
+  },
+  {
+    "name": "Aero Drake",
+    "thumbnail": "thumbnails-monsters/310000550.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000550",
+    "entity_id": "Monster_Branch2.2_008",
+    "head_icon": "T_IconMonsterHead_31055_UI"
+  },
+  {
+    "name": "Electro Drake",
+    "thumbnail": "thumbnails-monsters/310000560.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000560",
+    "entity_id": "Monster_Branch2.2_007",
+    "head_icon": "T_IconMonsterHead_31056_UI"
+  },
+  {
+    "name": "Glacio Drake",
+    "thumbnail": "thumbnails-monsters/310000570.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000570",
+    "entity_id": "Monster_Branch2.2_009",
+    "head_icon": "T_IconMonsterHead_31057_UI"
+  },
+  {
+    "name": "Fusion Drake",
+    "thumbnail": "thumbnails-monsters/310000580.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000580",
+    "entity_id": "Monster_Branch2.4_002",
+    "head_icon": "T_IconMonsterHead_31058_UI"
+  },
+  {
+    "name": "Spectro Drake",
+    "thumbnail": "thumbnails-monsters/310000590.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000590",
+    "entity_id": "Monster_Branch2.4_003",
+    "head_icon": "T_IconMonsterHead_31059_UI"
+  },
+  {
+    "name": "Havoc Drake",
+    "thumbnail": "thumbnails-monsters/310000600.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000600",
+    "entity_id": "Monster_Branch2.4_004",
+    "head_icon": "T_IconMonsterHead_31060_UI"
+  },
+  {
+    "name": "Devotee's Flesh",
+    "thumbnail": "thumbnails-monsters/310000610.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000610",
+    "entity_id": "branch2.4_Monster_branch2.4_005",
+    "head_icon": "T_IconMonsterHead_31061_UI"
+  },
+  {
+    "name": "Abyssal Gunmaster",
+    "thumbnail": "thumbnails-monsters/310000620.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000620",
+    "entity_id": "Monster_branch2.5_70160",
+    "head_icon": "T_IconMonsterHead_32035_UI"
+  },
+  {
+    "name": "Nightmare: Havoc Warrior",
+    "thumbnail": "thumbnails-monsters/310000630.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000630",
+    "entity_id": "Monster_Branch2.5_015",
+    "head_icon": "T_IconMonsterHead_31063_UI"
+  },
+  {
+    "name": "Nightmare: Glacio Predator",
+    "thumbnail": "thumbnails-monsters/310000640.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000640",
+    "entity_id": "Monster_Branch2.5_016",
+    "head_icon": "T_IconMonsterHead_31064_UI"
+  },
+  {
+    "name": "Nightmare: Electro Predator",
+    "thumbnail": "thumbnails-monsters/310000650.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000650",
+    "entity_id": "Monster_Branch2.6_011",
+    "head_icon": "T_IconMonsterHead_31065_UI"
+  },
+  {
+    "name": "Nightmare: Aero Predator",
+    "thumbnail": "thumbnails-monsters/310000660.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000660",
+    "entity_id": "Monster_Branch2.6_012",
+    "head_icon": "T_IconMonsterHead_31066_UI"
+  },
+  {
+    "name": "Nightmare: Gulpuff",
+    "thumbnail": "thumbnails-monsters/310000670.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000670",
+    "entity_id": "Monster_Branch2.6_013",
+    "head_icon": "T_IconMonsterHead_31067_UI"
+  },
+  {
+    "name": "Nightmare: Chirpuff",
+    "thumbnail": "thumbnails-monsters/310000680.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000680",
+    "entity_id": "Monster_Branch2.6_014",
+    "head_icon": "T_IconMonsterHead_31068_UI"
+  },
+  {
+    "name": "Midnight Ranger",
+    "thumbnail": "thumbnails-monsters/310000690.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000690",
+    "entity_id": "Monster143",
+    "head_icon": "T_IconMonsterHead_31069_UI"
+  },
+  {
+    "name": "Midnight Ranger",
+    "thumbnail": "thumbnails-monsters/310000700.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000700",
+    "entity_id": "Monster145",
+    "head_icon": "T_IconMonsterHead_31070_UI"
+  },
+  {
+    "name": "Gang Member",
+    "thumbnail": "thumbnails-monsters/310000710.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000710",
+    "entity_id": "branch2.3_Monster_branch2.3_013",
+    "head_icon": "T_IconMonsterHead_31071_UI"
+  },
+  {
+    "name": "Nightmare: Baby Viridblaze Saurian",
+    "thumbnail": "thumbnails-monsters/310000720.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000720",
+    "entity_id": "branch2.7_430_Monster_monster2_9",
+    "head_icon": "T_IconMonsterHead_31072_UI"
+  },
+  {
+    "name": "Nightmare: Baby Roseshroom",
+    "thumbnail": "thumbnails-monsters/310000730.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000730",
+    "entity_id": "branch2.7_430_Monster_monster2_8",
+    "head_icon": "T_IconMonsterHead_31073_UI"
+  },
+  {
+    "name": "Tremor Warrior",
+    "thumbnail": "thumbnails-monsters/310000740.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000740",
+    "entity_id": "Monster_Branch3.0_007",
+    "head_icon": "T_IconMonsterHead_31074_UI"
+  },
+  {
+    "name": "Nightmare: Tick Tack",
+    "thumbnail": "thumbnails-monsters/310000750.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000750",
+    "entity_id": "branch2.8_241_Monster_monster2_10",
+    "head_icon": "T_IconMonsterHead_31075_UI"
+  },
+  {
+    "name": "Nightmare: Dwarf Cassowary",
+    "thumbnail": "thumbnails-monsters/310000760.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000760",
+    "entity_id": "branch2.8_241_Monster_monster2_9",
+    "head_icon": "T_IconMonsterHead_31076_UI"
+  },
+  {
+    "name": "Flora Drone",
+    "thumbnail": "thumbnails-monsters/310000770.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000770",
+    "entity_id": "Monster_Branch3.0_010",
+    "head_icon": "T_IconMonsterHead_31077_UI"
+  },
+  {
+    "name": "Mining Drone",
+    "thumbnail": "thumbnails-monsters/310000780.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000780",
+    "entity_id": "Monster_Branch3.0_009",
+    "head_icon": "T_IconMonsterHead_31078_UI"
+  },
+  {
+    "name": "Geospider S4",
+    "thumbnail": "thumbnails-monsters/310000790.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000790",
+    "entity_id": "Monster_Branch3.0_008",
+    "head_icon": "T_IconMonsterHead_31079_UI"
+  },
+  {
+    "name": "Outcast Executioner",
+    "thumbnail": "thumbnails-monsters/310000800.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000800",
+    "entity_id": "Monster_Branch3.0_011",
+    "head_icon": "T_IconMonsterHead_31080_UI"
+  },
+  {
+    "name": "Thundstaff Outcast",
+    "thumbnail": "thumbnails-monsters/310000810.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000810",
+    "entity_id": "Monster_Branch3.0_012",
+    "head_icon": "T_IconMonsterHead_31081_UI"
+  },
+  {
+    "name": "Zip Zap",
+    "thumbnail": "thumbnails-monsters/310000820.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000820",
+    "entity_id": "Monster_Branch3.0_005",
+    "head_icon": "T_IconMonsterHead_31082_UI"
+  },
+  {
+    "name": "Iceglint Dancer",
+    "thumbnail": "thumbnails-monsters/310000830.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000830",
+    "entity_id": "branch3.1_243_Monster_Branch3.0_007",
+    "head_icon": "T_IconMonsterHead_31083_UI"
+  },
+  {
+    "name": "Shadow Stepper",
+    "thumbnail": "thumbnails-monsters/310000840.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000840",
+    "entity_id": "branch3.1_243_Monster_Branch3.0_006",
+    "head_icon": "T_IconMonsterHead_31084_UI"
+  },
+  {
+    "name": "Fractsidus Ripper",
+    "thumbnail": "thumbnails-monsters/310000850.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000850",
+    "entity_id": "branch3.2_604_Monster_Branch3.2_001",
+    "head_icon": "T_IconMonsterHead_31085_UI"
+  },
+  {
+    "name": "Fractsidus Mawdoll",
+    "thumbnail": "thumbnails-monsters/310000860.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000860",
+    "entity_id": "branch3.2_604_Monster_Branch3.2_003",
+    "head_icon": "T_IconMonsterHead_31086_UI"
+  },
+  {
+    "name": "Nightmare: Armed Corpo",
+    "thumbnail": "thumbnails-monsters/310000870.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000870",
+    "entity_id": "branch3.4_001_Monster_001",
+    "head_icon": "T_IconMonsterHead_31087_UI"
+  },
+  {
+    "name": "Nightmare: Security Corpo",
+    "thumbnail": "thumbnails-monsters/310000880.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000880",
+    "entity_id": "branch3.4_602_Monster_003",
+    "head_icon": "T_IconMonsterHead_31088_UI"
+  },
+  {
+    "name": "Nightmare: Spec Ops Corpo",
+    "thumbnail": "thumbnails-monsters/310000890.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000890",
+    "entity_id": "branch3.4_602_Monster_005",
+    "head_icon": "T_IconMonsterHead_31089_UI"
+  },
+  {
+    "name": "Smiter",
+    "thumbnail": "thumbnails-monsters/310000900.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000900",
+    "entity_id": "branch3.5_602_Monster_005",
+    "head_icon": "T_IconMonsterHead_31090_UI"
+  },
+  {
+    "name": "Porcelain Picket",
+    "thumbnail": "thumbnails-monsters/310000910.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000910",
+    "entity_id": "branch3.5_672_Monster_007",
+    "head_icon": "T_IconMonsterHead_31091_UI"
+  },
+  {
+    "name": "Stone Picket",
+    "thumbnail": "thumbnails-monsters/310000920.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000920",
+    "entity_id": "branch3.5_672_Monster_008",
+    "head_icon": "T_IconMonsterHead_31092_UI"
+  },
+  {
+    "name": "Aureate Picket",
+    "thumbnail": "thumbnails-monsters/310000930.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000930",
+    "entity_id": "branch3.5_672_Monster_009",
+    "head_icon": "T_IconMonsterHead_31093_UI"
+  },
+  {
+    "name": "Kernel Puppet: Joy",
+    "thumbnail": "thumbnails-monsters/310000940.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000940",
+    "entity_id": "Monster_branch3.5_020",
+    "head_icon": "T_IconMonsterHead_31094_UI"
+  },
+  {
+    "name": "Kernel Puppet: Anger",
+    "thumbnail": "thumbnails-monsters/310000950.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000950",
+    "entity_id": "Monster_branch3.5_021",
+    "head_icon": "T_IconMonsterHead_31095_UI"
+  },
+  {
+    "name": "Kernel Puppet: Worry",
+    "thumbnail": "thumbnails-monsters/310000960.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000960",
+    "entity_id": "Monster_branch3.5_022",
+    "head_icon": "T_IconMonsterHead_31096_UI"
+  },
+  {
+    "name": "Kernel Puppet: Reflection",
+    "thumbnail": "thumbnails-monsters/310000970.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000970",
+    "entity_id": "Monster_branch3.5_023",
+    "head_icon": "T_IconMonsterHead_31097_UI"
+  },
+  {
+    "name": "Kernel Puppet: Grief",
+    "thumbnail": "thumbnails-monsters/310000980.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000980",
+    "entity_id": "Monster_branch3.5_024",
+    "head_icon": "T_IconMonsterHead_31098_UI"
+  },
+  {
+    "name": "Kernel Puppet: Fright",
+    "thumbnail": "thumbnails-monsters/310000990.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310000990",
+    "entity_id": "Monster_branch3.5_025",
+    "head_icon": "T_IconMonsterHead_31099_UI"
+  },
+  {
+    "name": "Fog Lionarch: Body",
+    "thumbnail": "thumbnails-monsters/310001000.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310001000",
+    "entity_id": "branch3.5_602_Monster_006",
+    "head_icon": "T_IconMonsterHead_31100_UI"
+  },
+  {
+    "name": "Fog Lionarch: Head",
+    "thumbnail": "thumbnails-monsters/310001010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310001010",
+    "entity_id": "branch3.5_602_Monster_003",
+    "head_icon": "T_IconMonsterHead_31101_UI"
+  },
+  {
+    "name": "Smolder",
+    "thumbnail": "thumbnails-monsters/310001020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310001020",
+    "entity_id": "branch3.5_602_monster_001",
+    "head_icon": "T_IconMonsterHead_31102_UI"
+  },
+  {
+    "name": "Jade Nether Serpent",
+    "thumbnail": "thumbnails-monsters/310001030.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310001030",
+    "entity_id": "branch3.5_247_Animal_V3_11",
+    "head_icon": "T_IconMonsterHead_31103_UI"
+  },
+  {
+    "name": "Bloomburst Puppet",
+    "thumbnail": "thumbnails-monsters/310001040.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "310001040",
+    "entity_id": "branch3.7_602_Monster_004",
+    "head_icon": "T_IconMonsterHead_31104_UI"
+  },
+  {
+    "name": "Stonewall Bracer",
+    "thumbnail": "thumbnails-monsters/320000010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000010",
+    "entity_id": "Monster037",
+    "head_icon": "T_IconMonsterHead_185_UI"
+  },
+  {
+    "name": "Violet-Feathered Heron",
+    "thumbnail": "thumbnails-monsters/320000020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000020",
+    "entity_id": "Monster031",
+    "head_icon": "T_IconMonsterHead_125_UI"
+  },
+  {
+    "name": "Cyan-Feathered Heron",
+    "thumbnail": "thumbnails-monsters/320000030.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000030",
+    "entity_id": "Monster032",
+    "head_icon": "T_IconMonsterHead_135_UI"
+  },
+  {
+    "name": "Flautist",
+    "thumbnail": "thumbnails-monsters/320000040.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000040",
+    "entity_id": "Monster038",
+    "head_icon": "T_IconMonsterHead_195_UI"
+  },
+  {
+    "name": "Tambourinist",
+    "thumbnail": "thumbnails-monsters/320000050.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000050",
+    "entity_id": "Monster039",
+    "head_icon": "T_IconMonsterHead_205_UI"
+  },
+  {
+    "name": "Rocksteady Guardian",
+    "thumbnail": "thumbnails-monsters/320000060.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000060",
+    "entity_id": "Monster040",
+    "head_icon": "T_IconMonsterHead_245_UI"
+  },
+  {
+    "name": "Chasm Guardian",
+    "thumbnail": "thumbnails-monsters/320000070.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000070",
+    "entity_id": "Monster041",
+    "head_icon": "T_IconMonsterHead_215_UI"
+  },
+  {
+    "name": "Viridblaze Saurian",
+    "thumbnail": "thumbnails-monsters/320000080.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000080",
+    "entity_id": "Monster042",
+    "head_icon": "T_IconMonsterHead_295_UI"
+  },
+  {
+    "name": "Roseshroom",
+    "thumbnail": "thumbnails-monsters/320000090.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000090",
+    "entity_id": "Monster043",
+    "head_icon": "T_IconMonsterHead_315_UI"
+  },
+  {
+    "name": "Havoc Dreadmane",
+    "thumbnail": "thumbnails-monsters/320000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000100",
+    "entity_id": "Monster049",
+    "head_icon": "T_IconMonsterHead_984_UI"
+  },
+  {
+    "name": "Hoochief Cyclone",
+    "thumbnail": "thumbnails-monsters/320000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000110",
+    "entity_id": "Monster050",
+    "head_icon": "T_IconMonsterHead_989_UI"
+  },
+  {
+    "name": "Hoochief",
+    "thumbnail": "thumbnails-monsters/320000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000111",
+    "entity_id": "Monster050",
+    "head_icon": "T_IconMonsterHead_989_UI"
+  },
+  {
+    "name": "Spearback",
+    "thumbnail": "thumbnails-monsters/320000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000120",
+    "entity_id": "Monster051",
+    "head_icon": "T_IconMonsterHead_986_UI"
+  },
+  {
+    "name": "Carapace",
+    "thumbnail": "thumbnails-monsters/320000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000130",
+    "entity_id": "Monster054",
+    "head_icon": "T_IconMonsterHead_970_UI"
+  },
+  {
+    "name": "Exile Leader",
+    "thumbnail": "thumbnails-monsters/320000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000140",
+    "entity_id": "Monster055",
+    "head_icon": "T_IconMonsterHead_979_UI"
+  },
+  {
+    "name": "Exile Technician",
+    "thumbnail": "thumbnails-monsters/320000150.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000150",
+    "entity_id": "Monster056",
+    "head_icon": "T_IconMonsterHead_978_UI"
+  },
+  {
+    "name": "Fractsidus Executioner",
+    "thumbnail": "thumbnails-monsters/320000160.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000160",
+    "entity_id": "Monster069",
+    "head_icon": "T_IconMonsterHead_975_UI"
+  },
+  {
+    "name": "Hoochief Menace",
+    "thumbnail": "thumbnails-monsters/320000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000170",
+    "entity_id": "Monster128",
+    "head_icon": "T_IconMonsterHead_1005_UI"
+  },
+  {
+    "name": "Autopuppet Scout",
+    "thumbnail": "thumbnails-monsters/320000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000180",
+    "entity_id": "Monster150",
+    "head_icon": "T_IconMonsterHead_1003_UI"
+  },
+  {
+    "name": "Glacio Dreadmane",
+    "thumbnail": "thumbnails-monsters/320000190.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000190",
+    "entity_id": "Monster_branch1.1_001",
+    "head_icon": "T_IconMonsterHead_985_UI"
+  },
+  {
+    "name": "Lumiscale Construct",
+    "thumbnail": "thumbnails-monsters/320000200.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000200",
+    "entity_id": "Monster170",
+    "head_icon": "T_IconMonsterHead_329_UI"
+  },
+  {
+    "name": "Lightcrusher",
+    "thumbnail": "thumbnails-monsters/320000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000210",
+    "entity_id": "Monster126",
+    "head_icon": "T_IconMonsterHead_328_UI"
+  },
+  {
+    "name": "Questless Knight",
+    "thumbnail": "thumbnails-monsters/320000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000220",
+    "entity_id": "Monster173",
+    "head_icon": "T_IconMonsterHead_32022_UI"
+  },
+  {
+    "name": "Diurnus Knight",
+    "thumbnail": "thumbnails-monsters/320000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000230",
+    "entity_id": "Monster184",
+    "head_icon": "T_IconMonsterHead_32023_UI"
+  },
+  {
+    "name": "Nocturnus Knight",
+    "thumbnail": "thumbnails-monsters/320000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000240",
+    "entity_id": "Monster183",
+    "head_icon": "T_IconMonsterHead_32024_UI"
+  },
+  {
+    "name": "Abyssal Patricius",
+    "thumbnail": "thumbnails-monsters/320000250.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000250",
+    "entity_id": "Monster_branch2.0_007",
+    "head_icon": "T_IconMonsterHead_32025_UI"
+  },
+  {
+    "name": "Abyssal Gladius",
+    "thumbnail": "thumbnails-monsters/320000260.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000260",
+    "entity_id": "Monster_branch2.0_030",
+    "head_icon": "T_IconMonsterHead_32026_UI"
+  },
+  {
+    "name": "Abyssal Mercator",
+    "thumbnail": "thumbnails-monsters/320000270.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000270",
+    "entity_id": "branch2.0_Monster_branch2.0_031",
+    "head_icon": "T_IconMonsterHead_32027_UI"
+  },
+  {
+    "name": "Chop Chop",
+    "thumbnail": "thumbnails-monsters/320000280.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000280",
+    "entity_id": "Monster_branch2.0_012",
+    "head_icon": "T_IconMonsterHead_32028_UI"
+  },
+  {
+    "name": "Vitreum Dancer",
+    "thumbnail": "thumbnails-monsters/320000290.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000290",
+    "entity_id": "Monster059",
+    "head_icon": "T_IconMonsterHead_32029_UI"
+  },
+  {
+    "name": "Cuddle Wuddle",
+    "thumbnail": "thumbnails-monsters/320000300.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000300",
+    "entity_id": "Monster_branch2.0_009",
+    "head_icon": "T_IconMonsterHead_32030_UI"
+  },
+  {
+    "name": "Rage Against the Statue",
+    "thumbnail": "thumbnails-monsters/320000310.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000310",
+    "entity_id": "Monster_branch2.1_03",
+    "head_icon": "T_IconMonsterHead_32031_UI"
+  },
+  {
+    "name": "Hurriclaw",
+    "thumbnail": "thumbnails-monsters/320000320.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000320",
+    "entity_id": "Monster_branch2.1_04",
+    "head_icon": "T_IconMonsterHead_32032_UI"
+  },
+  {
+    "name": "Capitaneus",
+    "thumbnail": "thumbnails-monsters/320000330.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000330",
+    "entity_id": "Monster_Branch2.2_006",
+    "head_icon": "T_IconMonsterHead_32033_UI"
+  },
+  {
+    "name": "Kerasaur",
+    "thumbnail": "thumbnails-monsters/320000340.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000340",
+    "entity_id": "branch2.4_Monster_77069",
+    "head_icon": "T_IconMonsterHead_31062_UI"
+  },
+  {
+    "name": "Pilgrim's Shell",
+    "thumbnail": "thumbnails-monsters/320000350.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000350",
+    "entity_id": "branch2.4_Monster_branch2.4_032",
+    "head_icon": "T_IconMonsterHead_32034_UI"
+  },
+  {
+    "name": "Flamecrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000360.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000360",
+    "entity_id": "Monster_branch2.4_011",
+    "head_icon": "T_IconMonsterHead_32036_UI"
+  },
+  {
+    "name": "Galecrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000370.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000370",
+    "entity_id": "Monster_branch2.4_009",
+    "head_icon": "T_IconMonsterHead_32037_UI"
+  },
+  {
+    "name": "Lightcrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000380.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000380",
+    "entity_id": "Monster_branch2.4_010",
+    "head_icon": "T_IconMonsterHead_32038_UI"
+  },
+  {
+    "name": "Frostcrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000390.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000390",
+    "entity_id": "branch2.4_Monster_branch2.4_008",
+    "head_icon": "T_IconMonsterHead_32039_UI"
+  },
+  {
+    "name": "Thundercrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000400.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000400",
+    "entity_id": "branch2.4_Monster_branch2.4_009",
+    "head_icon": "T_IconMonsterHead_32040_UI"
+  },
+  {
+    "name": "Abysscrest Gladiator",
+    "thumbnail": "thumbnails-monsters/320000410.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000410",
+    "entity_id": "branch2.4_Monster_branch2.4_010",
+    "head_icon": "T_IconMonsterHead_32041_UI"
+  },
+  {
+    "name": "Fractsidus Inspector",
+    "thumbnail": "thumbnails-monsters/320000420.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000420",
+    "entity_id": "Monster_Branch2.5_001",
+    "head_icon": "T_IconMonsterHead_32042_UI"
+  },
+  {
+    "name": "Nightmare: Tambourinist",
+    "thumbnail": "thumbnails-monsters/320000430.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000430",
+    "entity_id": "Monster_Branch2.5_014",
+    "head_icon": "T_IconMonsterHead_32043_UI"
+  },
+  {
+    "name": "Corrosaurus",
+    "thumbnail": "thumbnails-monsters/320000440.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000440",
+    "entity_id": "Monster_Branch2.6_002",
+    "head_icon": "T_IconMonsterHead_32044_UI"
+  },
+  {
+    "name": "Nightmare: Violet-Feathered Heron",
+    "thumbnail": "thumbnails-monsters/320000450.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000450",
+    "entity_id": "Monster_Branch2.6_015",
+    "head_icon": "T_IconMonsterHead_32045_UI"
+  },
+  {
+    "name": "Nightmare: Cyan-Feathered Heron",
+    "thumbnail": "thumbnails-monsters/320000460.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000460",
+    "entity_id": "Monster_Branch2.6_010",
+    "head_icon": "T_IconMonsterHead_32046_UI"
+  },
+  {
+    "name": "Nightmare: Viridblaze Saurian",
+    "thumbnail": "thumbnails-monsters/320000470.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000470",
+    "entity_id": "branch2.7_430_Monster_monster2_10",
+    "head_icon": "T_IconMonsterHead_32047_UI"
+  },
+  {
+    "name": "Nightmare: Roseshroom",
+    "thumbnail": "thumbnails-monsters/320000480.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000480",
+    "entity_id": "branch2.8_241_Monster_monster2_11",
+    "head_icon": "T_IconMonsterHead_32048_UI"
+  },
+  {
+    "name": "Twin Nova: Nebulous Cannon",
+    "thumbnail": "thumbnails-monsters/320000490.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000490",
+    "entity_id": "branch3.0_3_Monster",
+    "head_icon": "T_IconMonsterHead_32049_UI"
+  },
+  {
+    "name": "Twin Nova: Collapsar Blade",
+    "thumbnail": "thumbnails-monsters/320000500.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000500",
+    "entity_id": "branch3.0_2_Monster",
+    "head_icon": "T_IconMonsterHead_32050_UI"
+  },
+  {
+    "name": "Flora Reindeer",
+    "thumbnail": "thumbnails-monsters/320000510.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000510",
+    "entity_id": "Monster_Branch3.0_015",
+    "head_icon": "T_IconMonsterHead_32051_UI"
+  },
+  {
+    "name": "Mining Reindeer",
+    "thumbnail": "thumbnails-monsters/320000520.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000520",
+    "entity_id": "Monster_Branch3.0_016",
+    "head_icon": "T_IconMonsterHead_32052_UI"
+  },
+  {
+    "name": "Ironhoof",
+    "thumbnail": "thumbnails-monsters/320000530.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000530",
+    "entity_id": "Monster_Branch3.0_014",
+    "head_icon": "T_IconMonsterHead_32053_UI"
+  },
+  {
+    "name": "Spacetrek Explorer",
+    "thumbnail": "thumbnails-monsters/320000540.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000540",
+    "entity_id": "branch3.0_678_Monster_monster3_2",
+    "head_icon": "T_IconMonsterHead_32054_UI"
+  },
+  {
+    "name": "Sabercat Reaver",
+    "thumbnail": "thumbnails-monsters/320000550.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000550",
+    "entity_id": "branch3.0_678_Monster_monster3_3",
+    "head_icon": "T_IconMonsterHead_32055_UI"
+  },
+  {
+    "name": "Sabercat Prowler",
+    "thumbnail": "thumbnails-monsters/320000560.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000560",
+    "entity_id": "branch3.0_678_Monster_monster3_1",
+    "head_icon": "T_IconMonsterHead_32056_UI"
+  },
+  {
+    "name": "Frostbite Coleoid",
+    "thumbnail": "thumbnails-monsters/320000570.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000570",
+    "entity_id": "Monster_Branch3.0_004",
+    "head_icon": "T_IconMonsterHead_32057_UI"
+  },
+  {
+    "name": "Windlash Coleoid",
+    "thumbnail": "thumbnails-monsters/320000580.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000580",
+    "entity_id": "Monster_Branch3.0_002",
+    "head_icon": "T_IconMonsterHead_32058_UI"
+  },
+  {
+    "name": "Kronablight",
+    "thumbnail": "thumbnails-monsters/320000590.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000590",
+    "entity_id": "branch3.1_658_Monster_monster3_3",
+    "head_icon": "T_IconMonsterHead_32059_UI"
+  },
+  {
+    "name": "Kronaclaw",
+    "thumbnail": "thumbnails-monsters/320000600.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000600",
+    "entity_id": "branch3.1_658_Monster_monster3_2",
+    "head_icon": "T_IconMonsterHead_32060_UI"
+  },
+  {
+    "name": "Reminiscence: Kronaclaw",
+    "thumbnail": "thumbnails-monsters/320000600.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000601",
+    "entity_id": "branch3.1_658_Monster_monster3_2",
+    "head_icon": "T_IconMonsterHead_32060_UI"
+  },
+  {
+    "name": "Glommoth",
+    "thumbnail": "thumbnails-monsters/320000610.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000610",
+    "entity_id": "branch3.1_Monster_005",
+    "head_icon": "T_IconMonsterHead_32061_UI"
+  },
+  {
+    "name": "Fractsidus Milliner",
+    "thumbnail": "thumbnails-monsters/320000620.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000620",
+    "entity_id": "branch3.2_604_Monster_branch3.2_002",
+    "head_icon": "T_IconMonsterHead_32062_UI"
+  },
+  {
+    "name": "Phagosite: Bipolarch",
+    "thumbnail": "thumbnails-monsters/320000630.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000630",
+    "entity_id": "branch3.2_604_Monster_branch3.2_004",
+    "head_icon": "T_IconMonsterHead_32063_UI"
+  },
+  {
+    "name": "Phagosite: Hysterarch",
+    "thumbnail": "thumbnails-monsters/320000640.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000640",
+    "entity_id": "branch3.2_604_Monster_branch3.2_006",
+    "head_icon": "T_IconMonsterHead_32064_UI"
+  },
+  {
+    "name": "Phagosite: Miserarch",
+    "thumbnail": "thumbnails-monsters/320000650.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000650",
+    "entity_id": "branch3.2_604_Monster_branch3.2_005",
+    "head_icon": "T_IconMonsterHead_32065_UI"
+  },
+  {
+    "name": "Voidwing Moth",
+    "thumbnail": "thumbnails-monsters/320000660.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000660",
+    "entity_id": "Monster_branch3.3_003",
+    "head_icon": "T_IconMonsterHead_32066_UI"
+  },
+  {
+    "name": "Fog Lionarch",
+    "thumbnail": "thumbnails-monsters/320000670.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000670",
+    "entity_id": "branch3.5_602_Monster_002",
+    "head_icon": "T_IconMonsterHead_32067_UI"
+  },
+  {
+    "name": "Forbidden Bastion",
+    "thumbnail": "thumbnails-monsters/320000680.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000680",
+    "entity_id": "Monster_Branch3.5_003",
+    "head_icon": "T_IconMonsterHead_32068_UI"
+  },
+  {
+    "name": "Skywatch Lancer",
+    "thumbnail": "thumbnails-monsters/320000690.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000690",
+    "entity_id": "branch3.5_247_Animal_V3_6",
+    "head_icon": "T_IconMonsterHead_32069_UI"
+  },
+  {
+    "name": "Formrender",
+    "thumbnail": "thumbnails-monsters/320000700.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000700",
+    "entity_id": "branch3.7_602_Monster_003",
+    "head_icon": "T_IconMonsterHead_32070_UI"
+  },
+  {
+    "name": "Soulfrayer",
+    "thumbnail": "thumbnails-monsters/320000710.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "320000710",
+    "entity_id": "Monster_Branch3.7_006",
+    "head_icon": "T_IconMonsterHead_32071_UI"
+  },
+  {
+    "name": "Tempest Mephis",
+    "thumbnail": "thumbnails-monsters/330000010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000010",
+    "entity_id": "Monster044",
+    "head_icon": "T_IconMonsterHead_225_UI"
+  },
+  {
+    "name": "Inferno Rider",
+    "thumbnail": "thumbnails-monsters/330000020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000020",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_325_UI"
+  },
+  {
+    "name": "Impermanence Heron",
+    "thumbnail": "thumbnails-monsters/330000030.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000030",
+    "entity_id": "Monster061",
+    "head_icon": "T_IconMonsterHead_995_UI"
+  },
+  {
+    "name": "Lampylumen Myriad",
+    "thumbnail": "thumbnails-monsters/330000040.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000040",
+    "entity_id": "Monster062",
+    "head_icon": "T_IconMonsterHead_994_UI"
+  },
+  {
+    "name": "Feilian Beringal",
+    "thumbnail": "thumbnails-monsters/330000050.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000050",
+    "entity_id": "Monster063",
+    "head_icon": "T_IconMonsterHead_996_UI"
+  },
+  {
+    "name": "Mourning Aix",
+    "thumbnail": "thumbnails-monsters/330000060.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000060",
+    "entity_id": "Monster070",
+    "head_icon": "T_IconMonsterHead_997_UI"
+  },
+  {
+    "name": "Fallacy of No Return",
+    "thumbnail": "thumbnails-monsters/330000070.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000070",
+    "entity_id": "Monster_branch1.3_001",
+    "head_icon": "T_IconMonsterHead_350_UI"
+  },
+  {
+    "name": "Scar: Lightbane Reversal",
+    "thumbnail": "thumbnails-monsters/330000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000100",
+    "entity_id": "Monster060",
+    "head_icon": "T_IconMonsterHead_1004_UI"
+  },
+  {
+    "name": "Lorelei",
+    "thumbnail": "thumbnails-monsters/330000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000110",
+    "entity_id": "Monster_Branch2.0_0116",
+    "head_icon": "T_IconMonsterHead_33011_UI"
+  },
+  {
+    "name": "Lorelei",
+    "thumbnail": "thumbnails-monsters/330000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000111",
+    "entity_id": "Monster_Branch2.0_0116",
+    "head_icon": "T_IconMonsterHead_33011_UI"
+  },
+  {
+    "name": "Sentry Construct",
+    "thumbnail": "thumbnails-monsters/330000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000120",
+    "entity_id": "Monster_Branch2.0_008",
+    "head_icon": "T_IconMonsterHead_33012_UI"
+  },
+  {
+    "name": "Dragon of Dirge",
+    "thumbnail": "thumbnails-monsters/330000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000130",
+    "entity_id": "Monster_Branch2.0_010",
+    "head_icon": "T_IconMonsterHead_33013_UI"
+  },
+  {
+    "name": "Dragon of Dirge",
+    "thumbnail": "thumbnails-monsters/330000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000131",
+    "entity_id": "Monster_Branch2.0_010",
+    "head_icon": "T_IconMonsterHead_33013_UI"
+  },
+  {
+    "name": "Nightmare: Feilian Beringal",
+    "thumbnail": "thumbnails-monsters/330000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000140",
+    "entity_id": "branch2.0_Monster_fushua6",
+    "head_icon": "T_IconMonsterHead_YZ_33014_UI"
+  },
+  {
+    "name": "Nightmare: Impermanence Heron",
+    "thumbnail": "thumbnails-monsters/330000150.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000150",
+    "entity_id": "branch2.0_Monster_fushua5",
+    "head_icon": "T_IconMonsterHead_YZ_33015_UI"
+  },
+  {
+    "name": "Nightmare: Thundering Mephis",
+    "thumbnail": "thumbnails-monsters/330000160.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000160",
+    "entity_id": "branch2.0_Monster_fushua1",
+    "head_icon": "T_IconMonsterHead_YZ_33016_UI"
+  },
+  {
+    "name": "Nightmare: Tempest Mephis",
+    "thumbnail": "thumbnails-monsters/330000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000170",
+    "entity_id": "branch2.0_Monster_fushua3",
+    "head_icon": "T_IconMonsterHead_YZ_33017_UI"
+  },
+  {
+    "name": "Nightmare: Crownless",
+    "thumbnail": "thumbnails-monsters/330000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000180",
+    "entity_id": "branch2.0_Monster_fushua4",
+    "head_icon": "T_IconMonsterHead_YZ_33018_UI"
+  },
+  {
+    "name": "Nightmare: Inferno Rider",
+    "thumbnail": "thumbnails-monsters/330000190.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000190",
+    "entity_id": "branch2.0_Monster_fushua",
+    "head_icon": "T_IconMonsterHead_YZ_33019_UI"
+  },
+  {
+    "name": "Nightmare: Mourning Aix",
+    "thumbnail": "thumbnails-monsters/330000200.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "330000200",
+    "entity_id": "branch2.0_Monster_fushua2",
+    "head_icon": "T_IconMonsterHead_YZ_33020_UI"
+  },
+  {
+    "name": "Crownless",
+    "thumbnail": "thumbnails-monsters/340000010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000010",
+    "entity_id": "Monster046",
+    "head_icon": "T_IconMonsterHead_999_UI"
+  },
+  {
+    "name": "Bell-Borne Geochelone",
+    "thumbnail": "thumbnails-monsters/340000020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000020",
+    "entity_id": "Monster047",
+    "head_icon": "T_IconMonsterHead_992_UI"
+  },
+  {
+    "name": "Scar: Aberrant Nightmare",
+    "thumbnail": "thumbnails-monsters/340000050.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000050",
+    "entity_id": "Monster060",
+    "head_icon": "T_IconMonsterHead_990_UI"
+  },
+  {
+    "name": "Mech Abomination",
+    "thumbnail": "thumbnails-monsters/340000060.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000060",
+    "entity_id": "Monster080",
+    "head_icon": "T_IconMonsterHead_993_UI"
+  },
+  {
+    "name": "Dreamless",
+    "thumbnail": "thumbnails-monsters/340000070.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000070",
+    "entity_id": "Monster078",
+    "head_icon": "T_IconMonsterHead_998_UI"
+  },
+  {
+    "name": "Thundering Mephis",
+    "thumbnail": "thumbnails-monsters/340000080.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000080",
+    "entity_id": "Monster066",
+    "head_icon": "T_IconMonsterHead_226_UI"
+  },
+  {
+    "name": "Jué",
+    "thumbnail": "thumbnails-monsters/340000090.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000090",
+    "entity_id": "Monster123",
+    "head_icon": "T_IconMonsterHead_327_UI"
+  },
+  {
+    "name": "Hecate",
+    "thumbnail": "thumbnails-monsters/340000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000100",
+    "entity_id": "Monster_Branch2.0_010",
+    "head_icon": "T_IconMonsterHead_34010_1_UI"
+  },
+  {
+    "name": "Hecate",
+    "thumbnail": "thumbnails-monsters/340000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000101",
+    "entity_id": "Monster_Branch2.0_010",
+    "head_icon": "T_IconMonsterHead_34010_1_UI"
+  },
+  {
+    "name": "Nightmare: Kelpie",
+    "thumbnail": "thumbnails-monsters/340000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000110",
+    "entity_id": "Monster_branch2.2_01",
+    "head_icon": "T_IconMonsterHead_33021_UI"
+  },
+  {
+    "name": null,
+    "thumbnail": "thumbnails-monsters/340000110.png",
+    "verified_against": "3.8",
+    "verification": "placeholder",
+    "monster_id": "340000111",
+    "entity_id": "Monster_branch2.2_02",
+    "head_icon": "T_IconMonsterHead_33021_UI"
+  },
+  {
+    "name": "Kelpie",
+    "thumbnail": "thumbnails-monsters/340000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000112",
+    "entity_id": "Monster_branch2.2_01",
+    "head_icon": "T_IconMonsterHead_33021_UI"
+  },
+  {
+    "name": "Phantom of Sunken Reverie",
+    "thumbnail": "thumbnails-monsters/340000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000113",
+    "entity_id": "Monster_branch2.2_01",
+    "head_icon": "T_IconMonsterHead_33021_UI"
+  },
+  {
+    "name": "Fleurdelys",
+    "thumbnail": "thumbnails-monsters/340000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000120",
+    "entity_id": "Monster_Branch2.2_003",
+    "head_icon": "T_IconMonsterHead_34012_UI"
+  },
+  {
+    "name": "Reminiscence: Fleurdelys",
+    "thumbnail": "thumbnails-monsters/340000121.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000121",
+    "entity_id": "Monster_Branch2.2_003",
+    "head_icon": "T_IconMonsterHead_34012_1_UI"
+  },
+  {
+    "name": "Fleurdelys",
+    "thumbnail": "thumbnails-monsters/340000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000122",
+    "entity_id": "Monster_Branch2.2_003",
+    "head_icon": "T_IconMonsterHead_34012_UI"
+  },
+  {
+    "name": "Vessel of the Fallen Dream",
+    "thumbnail": "thumbnails-monsters/340000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000123",
+    "entity_id": "Monster_Branch2.2_003",
+    "head_icon": "T_IconMonsterHead_34012_UI"
+  },
+  {
+    "name": "Nightmare: Lampylumen Myriad",
+    "thumbnail": "thumbnails-monsters/340000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000130",
+    "entity_id": "Monster_Branch2.2_023",
+    "head_icon": "T_IconMonsterHead_34013_UI"
+  },
+  {
+    "name": "Lioness of Glory",
+    "thumbnail": "thumbnails-monsters/340000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000140",
+    "entity_id": "Monster_Branch2.4_012",
+    "head_icon": "T_IconMonsterHead_33022_UI"
+  },
+  {
+    "name": "Lioness of Glory",
+    "thumbnail": "thumbnails-monsters/340000141.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000141",
+    "entity_id": "Monster_Branch2.4_012",
+    "head_icon": "T_IconMonsterHead_QX_33022_UI"
+  },
+  {
+    "name": "Apex Champion of the Citadel",
+    "thumbnail": "thumbnails-monsters/340000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000142",
+    "entity_id": "Monster_Branch2.4_012",
+    "head_icon": "T_IconMonsterHead_33022_UI"
+  },
+  {
+    "name": "Fenrico",
+    "thumbnail": "thumbnails-monsters/340000150.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000150",
+    "entity_id": "Monster_Branch_2.5_002",
+    "head_icon": "T_IconMonsterHead_34015_UI"
+  },
+  {
+    "name": "Reminiscence: Fenrico",
+    "thumbnail": "thumbnails-monsters/340000151.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000151",
+    "entity_id": "Monster_Branch_2.5_002",
+    "head_icon": "T_IconMonsterHead_34015_2_UI"
+  },
+  {
+    "name": "Nightmare: Hecate",
+    "thumbnail": "thumbnails-monsters/340000160.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000160",
+    "entity_id": "Monster_Branch2.5_013",
+    "head_icon": "T_IconMonsterHead_34016_UI"
+  },
+  {
+    "name": "The False Sovereign",
+    "thumbnail": "thumbnails-monsters/340000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000170",
+    "entity_id": "Monster_branch2.6_001",
+    "head_icon": "T_IconMonsterHead_34017_UI"
+  },
+  {
+    "name": "The False Sovereign",
+    "thumbnail": "thumbnails-monsters/340000171.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000171",
+    "entity_id": "Monster_branch2.6_001",
+    "head_icon": "T_IconMonsterHead_QX_34017_UI"
+  },
+  {
+    "name": "Eternal Husk of Sovereign",
+    "thumbnail": "thumbnails-monsters/340000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000172",
+    "entity_id": "Monster_branch2.6_001",
+    "head_icon": "T_IconMonsterHead_34017_UI"
+  },
+  {
+    "name": "Lady of the Sea",
+    "thumbnail": "thumbnails-monsters/340000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000180",
+    "entity_id": "branch2.4_Monster071",
+    "head_icon": "T_IconMonsterHead_34018_UI"
+  },
+  {
+    "name": "Lady of the Sea",
+    "thumbnail": "thumbnails-monsters/340000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000181",
+    "entity_id": "branch2.4_Monster071",
+    "head_icon": "T_IconMonsterHead_34018_UI"
+  },
+  {
+    "name": "Hecate",
+    "thumbnail": "thumbnails-monsters/340000190.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000190",
+    "entity_id": "Monster_Branch2.0_001",
+    "head_icon": "T_IconMonsterHead_34010_UI"
+  },
+  {
+    "name": "Threnodian: Leviathan",
+    "thumbnail": "thumbnails-monsters/340000200.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000200",
+    "entity_id": "Monster_Branch2.7_004",
+    "head_icon": "T_IconMonsterHead_34020_UI"
+  },
+  {
+    "name": "Reminiscence: Threnodian - Leviathan",
+    "thumbnail": "thumbnails-monsters/340000201.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000201",
+    "entity_id": "Monster_Branch2.7_004",
+    "head_icon": "T_IconMonsterHead_34020_1_UI"
+  },
+  {
+    "name": "Hyvatia",
+    "thumbnail": "thumbnails-monsters/340000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000210",
+    "entity_id": "Monster_Branch3.0_001",
+    "head_icon": "T_IconMonsterHead_34021_UI"
+  },
+  {
+    "name": "Hyvatia",
+    "thumbnail": "thumbnails-monsters/340000211.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000211",
+    "entity_id": "Monster_Branch3.0_001",
+    "head_icon": "T_IconMonsterHead_34021_1_UI"
+  },
+  {
+    "name": "Star Gazer of Silent Void",
+    "thumbnail": "thumbnails-monsters/340000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000212",
+    "entity_id": "Monster_Branch3.0_001",
+    "head_icon": "T_IconMonsterHead_34021_UI"
+  },
+  {
+    "name": "Star Gazer of Silent Void",
+    "thumbnail": "thumbnails-monsters/340000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000213",
+    "entity_id": "Monster_Branch3.0_001",
+    "head_icon": "T_IconMonsterHead_34021_UI"
+  },
+  {
+    "name": "Reactor Husk",
+    "thumbnail": "thumbnails-monsters/340000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000220",
+    "entity_id": "Monster_Branch3.0_006",
+    "head_icon": "T_IconMonsterHead_34022_UI"
+  },
+  {
+    "name": "Feral Meltdown",
+    "thumbnail": "thumbnails-monsters/340000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000221",
+    "entity_id": "Monster_Branch3.0_006",
+    "head_icon": "T_IconMonsterHead_34022_UI"
+  },
+  {
+    "name": "Feral Meltdown",
+    "thumbnail": "thumbnails-monsters/340000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000222",
+    "entity_id": "Monster_Branch3.0_006",
+    "head_icon": "T_IconMonsterHead_34022_UI"
+  },
+  {
+    "name": "Fallacy of No Return",
+    "thumbnail": "thumbnails-monsters/340000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000230",
+    "entity_id": "Monster_branch1.3_001",
+    "head_icon": "T_IconMonsterHead_34023_UI"
+  },
+  {
+    "name": "Voidworm",
+    "thumbnail": "thumbnails-monsters/340000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000240",
+    "entity_id": "Monster_Branch3.0_003",
+    "head_icon": "T_IconMonsterHead_34024_UI"
+  },
+  {
+    "name": "Sigillum",
+    "thumbnail": "thumbnails-monsters/340000250.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000250",
+    "entity_id": "Monster_Branch3.1_003",
+    "head_icon": "T_IconMonsterHead_34025_UI"
+  },
+  {
+    "name": "Sigillum",
+    "thumbnail": "thumbnails-monsters/340000251.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000251",
+    "entity_id": "Monster_Branch3.1_003",
+    "head_icon": "T_IconMonsterHead_34025_0_UI"
+  },
+  {
+    "name": "Stellar Wayfarer",
+    "thumbnail": "thumbnails-monsters/340000251.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000252",
+    "entity_id": "Monster_Branch3.1_003",
+    "head_icon": "T_IconMonsterHead_34025_0_UI"
+  },
+  {
+    "name": "Nameless Explorer",
+    "thumbnail": "thumbnails-monsters/340000260.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000260",
+    "entity_id": "branch3.1_670_Monster_Branch3.1_003",
+    "head_icon": "T_IconMonsterHead_34026_UI"
+  },
+  {
+    "name": "Desolate Apparition",
+    "thumbnail": "thumbnails-monsters/340000260.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000261",
+    "entity_id": "branch3.1_670_Monster_Branch3.1_003",
+    "head_icon": "T_IconMonsterHead_34026_UI"
+  },
+  {
+    "name": "Aleph-1's Creation",
+    "thumbnail": "thumbnails-monsters/340000270.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000270",
+    "entity_id": "Monster_branch3.3_011",
+    "head_icon": "T_IconMonsterHead_34027_UI"
+  },
+  {
+    "name": "Reminiscence: Threnodian - Voidborne Construct",
+    "thumbnail": "thumbnails-monsters/340000270.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000271",
+    "entity_id": "Monster_branch3.3_011",
+    "head_icon": "T_IconMonsterHead_34027_UI"
+  },
+  {
+    "name": "Denia",
+    "thumbnail": "thumbnails-monsters/340000280.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000280",
+    "entity_id": "Monster_branch3.3_011",
+    "head_icon": "T_IconMonsterHead_34028_UI"
+  },
+  {
+    "name": "Reminiscence: Denia",
+    "thumbnail": "thumbnails-monsters/340000281.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000281",
+    "entity_id": "Monster_branch3.3_011",
+    "head_icon": "T_IconMonsterHead_34028_1_UI"
+  },
+  {
+    "name": "Nightmare: Adam Smasher",
+    "thumbnail": "thumbnails-monsters/340000290.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000290",
+    "entity_id": "branch3.4_604_Monster_branch3.4_02",
+    "head_icon": "T_IconMonsterHead_34029_UI"
+  },
+  {
+    "name": "Reminiscence - Nightmare: Adam Smasher",
+    "thumbnail": "thumbnails-monsters/340000291.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000291",
+    "entity_id": "branch3.4_604_Monster_branch3.4_02",
+    "head_icon": "T_IconMonsterHead_34029_1_UI"
+  },
+  {
+    "name": "Myriad Snare: Rustfire Chassis",
+    "thumbnail": "thumbnails-monsters/340000300.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000300",
+    "entity_id": "Monster_Branch3.5_002",
+    "head_icon": "T_IconMonsterHead_34030_UI"
+  },
+  {
+    "name": "Thousand-Puppet Pavilion",
+    "thumbnail": "thumbnails-monsters/340000310.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000310",
+    "entity_id": "Monster_Branch_3.5_001",
+    "head_icon": "T_IconMonsterHead_34031_UI"
+  },
+  {
+    "name": "Calamity Effigy",
+    "thumbnail": "thumbnails-monsters/340000320.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000320",
+    "entity_id": "branch3.5_247_Animal_V3_9",
+    "head_icon": "T_IconMonsterHead_34032_UI"
+  },
+  {
+    "name": "Suhsin the Inevitable",
+    "thumbnail": "thumbnails-monsters/340000330.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000330",
+    "entity_id": "Monster_Branch3.7_001",
+    "head_icon": "T_IconMonsterHead_34033_UI"
+  },
+  {
+    "name": "Suhsin the Inevitable",
+    "thumbnail": "thumbnails-monsters/340000331.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000331",
+    "entity_id": "Monster_Branch3.7_002",
+    "head_icon": "T_IconMonsterHead_34033_1_UI"
+  },
+  {
+    "name": "Reminiscence: Suhsin the Inevitable",
+    "thumbnail": "thumbnails-monsters/340000332.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "340000332",
+    "entity_id": "Monster_Branch3.7_002_1",
+    "head_icon": "T_IconMonsterHead_34033_2_UI"
+  },
+  {
+    "name": "Phantom: Mourning Aix",
+    "thumbnail": "thumbnails-monsters/350000010.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000010",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_1006_UI"
+  },
+  {
+    "name": "Phantom: Rocksteady Guardian",
+    "thumbnail": "thumbnails-monsters/350000020.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000020",
+    "entity_id": "Monster1058",
+    "head_icon": "T_IconMonsterHead_1007_UI"
+  },
+  {
+    "name": "Phantom: Hoartoise",
+    "thumbnail": "thumbnails-monsters/350000030.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000030",
+    "entity_id": "Monster1040",
+    "head_icon": "T_IconMonsterHead_1010_UI"
+  },
+  {
+    "name": "Phantom: Thundering Mephis",
+    "thumbnail": "thumbnails-monsters/350000040.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000040",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_1008_UI"
+  },
+  {
+    "name": "Phantom: Feilian Beringal",
+    "thumbnail": "thumbnails-monsters/350000050.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000050",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_1009_UI"
+  },
+  {
+    "name": "Phantom: Impermanence Heron",
+    "thumbnail": "thumbnails-monsters/350000060.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000060",
+    "entity_id": "Monster061",
+    "head_icon": "T_IconMonsterHead_1014_UI"
+  },
+  {
+    "name": "Phantom: Clang Bang",
+    "thumbnail": "thumbnails-monsters/350000070.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000070",
+    "entity_id": "Monster119",
+    "head_icon": "T_IconMonsterHead_1015_UI"
+  },
+  {
+    "name": "Phantom: Lightcrusher",
+    "thumbnail": "thumbnails-monsters/350000080.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000080",
+    "entity_id": "Monster126",
+    "head_icon": "T_IconMonsterHead_1016_UI"
+  },
+  {
+    "name": "Phantom: Dreamless",
+    "thumbnail": "thumbnails-monsters/350000090.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000090",
+    "entity_id": "Monster078",
+    "head_icon": "T_IconMonsterHead_998_1_UI"
+  },
+  {
+    "name": "Phantom: Gulpuff",
+    "thumbnail": "thumbnails-monsters/350000100.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000100",
+    "entity_id": "Monster016",
+    "head_icon": "T_IconMonsterHead_115_1_UI"
+  },
+  {
+    "name": "Phantom: Lumiscale Construct",
+    "thumbnail": "thumbnails-monsters/350000110.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000110",
+    "entity_id": "Monster170",
+    "head_icon": "T_IconMonsterHead_329_1_UI"
+  },
+  {
+    "name": "Phantom: Inferno Rider",
+    "thumbnail": "thumbnails-monsters/350000120.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000120",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_325_1_UI"
+  },
+  {
+    "name": "Phantom: Diggy Duggy",
+    "thumbnail": "thumbnails-monsters/350000130.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000130",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_SG_31047_UI"
+  },
+  {
+    "name": "Phantom: Vitreum Dancer",
+    "thumbnail": "thumbnails-monsters/350000140.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000140",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_SG_32029_UI"
+  },
+  {
+    "name": "Phantom: Questless Knight",
+    "thumbnail": "thumbnails-monsters/350000150.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000150",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_SG_32022_UI"
+  },
+  {
+    "name": "Phantom: Sentry Construct",
+    "thumbnail": "thumbnails-monsters/350000160.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000160",
+    "entity_id": "Monster045",
+    "head_icon": "T_IconMonsterHead_SG_33009_UI"
+  },
+  {
+    "name": "Phantom: Lorelei",
+    "thumbnail": "thumbnails-monsters/350000170.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000170",
+    "entity_id": "Monster_Branch2.0_0116",
+    "head_icon": "T_IconMonsterHead_SG_33011_UI"
+  },
+  {
+    "name": "Phantom: Capitaneus",
+    "thumbnail": "thumbnails-monsters/350000180.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000180",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_32033_1_UI"
+  },
+  {
+    "name": "Phantom: Nimbus Wraith",
+    "thumbnail": "thumbnails-monsters/350000190.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000190",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31044_UI"
+  },
+  {
+    "name": "Phantom: Crownless",
+    "thumbnail": "thumbnails-monsters/350000200.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000200",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_9991_UI"
+  },
+  {
+    "name": "Phantom: Nightmare Crownless",
+    "thumbnail": "thumbnails-monsters/350000210.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000210",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_33018_UI"
+  },
+  {
+    "name": "Phantom: Chest Mimic",
+    "thumbnail": "thumbnails-monsters/350000220.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000220",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31048_UI"
+  },
+  {
+    "name": "Phantom: Fae Ignis",
+    "thumbnail": "thumbnails-monsters/350000230.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000230",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31043_UI"
+  },
+  {
+    "name": "Phantom: Cuddle Wuddle",
+    "thumbnail": "thumbnails-monsters/350000240.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000240",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32030_UI"
+  },
+  {
+    "name": "Phantom: Nightmare Inferno Rider",
+    "thumbnail": "thumbnails-monsters/350000250.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000250",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_33019_UI"
+  },
+  {
+    "name": "Phantom: Nightmare Mourning Aix",
+    "thumbnail": "thumbnails-monsters/350000260.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000260",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_33020_UI"
+  },
+  {
+    "name": "Phantom: Fallacy of No Return",
+    "thumbnail": "thumbnails-monsters/350000270.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000270",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_350_UI"
+  },
+  {
+    "name": "Phantom: Kerasaur",
+    "thumbnail": "thumbnails-monsters/350000280.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000280",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31062_UI"
+  },
+  {
+    "name": "Phantom: Lioness of Glory",
+    "thumbnail": null,
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000290",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_33022_UI"
+  },
+  {
+    "name": "Phantom: Chop Chop",
+    "thumbnail": "thumbnails-monsters/350000300.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000300",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32028_UI"
+  },
+  {
+    "name": "Phantom: The False Sovereign",
+    "thumbnail": "thumbnails-monsters/350000310.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000310",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_34017_UI"
+  },
+  {
+    "name": "Phantom: Zip Zap",
+    "thumbnail": "thumbnails-monsters/350000330.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000330",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31082_UI"
+  },
+  {
+    "name": "Phantom: Twin Nova - Nebulous Cannon",
+    "thumbnail": "thumbnails-monsters/350000340.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000340",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32049_UI"
+  },
+  {
+    "name": "Phantom: Twin Nova - Collapsar Blade",
+    "thumbnail": "thumbnails-monsters/350000350.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000350",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32050_UI"
+  },
+  {
+    "name": "Phantom: Sigillum",
+    "thumbnail": "thumbnails-monsters/350000360.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000360",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_34025_UI"
+  },
+  {
+    "name": "Phantom: Iceglint Dancer",
+    "thumbnail": "thumbnails-monsters/350000370.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000370",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31083_UI"
+  },
+  {
+    "name": "Phantom: Reactor Husk",
+    "thumbnail": "thumbnails-monsters/350000380.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000380",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_34022_UI"
+  },
+  {
+    "name": "Phantom: Kronaclaw",
+    "thumbnail": "thumbnails-monsters/350000390.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000390",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32060_UI"
+  },
+  {
+    "name": "Phantom: Glommoth",
+    "thumbnail": "thumbnails-monsters/350000400.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000400",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32061_UI"
+  },
+  {
+    "name": "Phantom: Forbidden Bastion",
+    "thumbnail": "thumbnails-monsters/350000410.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000410",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32068_UI"
+  },
+  {
+    "name": "Phantom: Smiter",
+    "thumbnail": "thumbnails-monsters/350000420.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000420",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31090_UI"
+  },
+  {
+    "name": "Phantom: Myriad Snare: Rustfire Chassis",
+    "thumbnail": "thumbnails-monsters/350000430.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000430",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_34030_UI"
+  },
+  {
+    "name": "Phantom: Smolder",
+    "thumbnail": "thumbnails-monsters/350000440.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000440",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_31102_UI"
+  },
+  {
+    "name": null,
+    "thumbnail": null,
+    "verified_against": "3.8",
+    "verification": "placeholder",
+    "monster_id": "350000450",
+    "entity_id": null,
+    "head_icon": "T_IconMonsterHead_SG_34033_2_UI"
+  },
+  {
+    "name": "Phantom: Skywatch Lancer",
+    "thumbnail": "thumbnails-monsters/350000460.png",
+    "verified_against": "3.8",
+    "verification": "confirmed",
+    "monster_id": "350000460",
+    "entity_id": "",
+    "head_icon": "T_IconMonsterHead_SG_32069_UI"
+  }
+]
